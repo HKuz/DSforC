@@ -39,13 +39,13 @@ Below are some examples of LWCF projects specific to the New England area.
 
 ### Vermont
 
-**Black Falls Basin, VT:** In 2001, there was one last chance to secure 3764 acres along the northern corridor of Vermont’s Long Trail. Two attempts in the 1990s to acquire the Black Falls Basin had failed — the second time when Land and Water Conservation Funds were unavailable. Drawing on more than 20 public and private funding sources, including the Vermont Department of Forests, Parks and Recreation, the Green Mountain Club completed the largest single land acquisition it had ever undertaken. The acquisition protected a wilderness experience for Long Trail hikers and important wildlife habitat. LWCF funding assistance: $407,000. ([Source](https://www.nps.gov/subjects/lwcf/upload/LWCF_VT.pdf)).
+**Black Falls Basin, VT:** In 2001, there was one last chance to secure 3764 acres along the northern corridor of Vermont’s Long Trail. Two attempts in the 1990s to acquire the Black Falls Basin had failed — the second time when Land and Water Conservation Funds were unavailable. Drawing on more than 20 public and private funding sources, including the Vermont Department of Forests, Parks and Recreation, the Green Mountain Club completed the largest single land acquisition it had ever undertaken. The acquisition protected a wilderness experience for Long Trail hikers and important wildlife habitat. LWCF funding assistance: $407,000. ([Source](https://www.nps.gov/subjects/lwcf/upload/LWCF_VT.pdf))
 
 
 ## Sources
 
-- [National Parks Service website](https://www.nps.gov/subjects/lwcf/index.htm)
-- [A map of LWCF projects](https://wilderness.org/mapping-land-and-water-conservation-fund-lwcf)
-- [LWCF Summary Reports](https://waso-lwcf.ncrc.nps.gov/public/index.cfm)
+- [National Parks Service](https://www.nps.gov/subjects/lwcf/index.htm)
 - [RI LWCF Grants List](http://projects.invw.org/data/lwcf/grants-ri.html)
 - [Appalachian Mountain Club LWCF At Risk Article](https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land)
+- [A Map of LWCF Projects](https://wilderness.org/mapping-land-and-water-conservation-fund-lwcf)
+- [LWCF Summary Reports](https://waso-lwcf.ncrc.nps.gov/public/index.cfm)
