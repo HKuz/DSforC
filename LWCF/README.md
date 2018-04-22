@@ -49,3 +49,4 @@ Below are some examples of LWCF projects specific to the New England area.
 - [Appalachian Mountain Club LWCF At Risk Article](https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land)
 - [A Map of LWCF Projects](https://wilderness.org/mapping-land-and-water-conservation-fund-lwcf)
 - [LWCF Summary Reports](https://waso-lwcf.ncrc.nps.gov/public/index.cfm)
+- [LWCF Coalition Tools and Documents](https://www.lwcfcoalition.com/tools/)
