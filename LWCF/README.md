@@ -45,7 +45,7 @@ Below are some examples of LWCF projects specific to the New England area.
 ## Sources
 
 - [National Parks Service](https://www.nps.gov/subjects/lwcf/index.htm)
-- [RI LWCF Grants List](http://projects.invw.org/data/lwcf/grants-ri.html)
+- [Investigate West LWCF Grants List 1965-2011](http://www.invw.org/2012/06/11/lwcf-grants-database-1283/)
 - [Appalachian Mountain Club LWCF At Risk Article](https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land)
 - [A Map of LWCF Projects](https://wilderness.org/mapping-land-and-water-conservation-fund-lwcf)
 - [LWCF Summary Reports](https://waso-lwcf.ncrc.nps.gov/public/index.cfm)
