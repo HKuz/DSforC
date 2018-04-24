@@ -4,6 +4,10 @@ The Land and Water Conservation Fund (LWCF) is a federal program that was establ
 
 The LWCF costs taxpayers nothing. It's primarily funded by the fees paid to the Bureau of Ocean Energy Management, Regulation and Enforcement by companies that drill offshore for oil and gas. It then uses this money to fund conservation projects, protect land, and create recreation opportunites for everyone. There's LWCF-protected land and water in all 50 states - everywhere from national parks, national forests, and wildlife refuges, to local playgrounds and soccer fields.
 
+
+
+> More American jobs depend on trail sports (768,000) than there are lawyers (728,200) in the U.S. ([LWCF 2012 Annual Report](https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf))
+
 Unfortunately, the LWCF is set to expire in September of 2018, unless Congress re-authorizes it. Additionally, Congress is supposed to fully fund the LWCF with $900 million of the offshore drilling royalties every year, but they've consistently diverted much of this funding to other uses.
 
 ## LWCF Projects in New England
@@ -28,7 +32,7 @@ Below are some examples of LWCF projects specific to the New England area.
 
 ### New Hampshire
 
-**Tilton, NH:** A $1.3 million waterfront park is taking shape in downtown Tilton at the site of an abandoned flour mill with help from the Land and Water Conservation Fund in partnership with state and local funding and a remarkable show of community support. The 2-acre site, restored for public use by an EPA funded cleanup, will feature boat ramps, fishing piers, picnic areas and a main pavilion topped by a restored bell preserved from the mill tower. LWCF funding assistance: $100,000. ([Source](https://www.nps.gov/subjects/lwcf/upload/LWCF_NH.pdf))
+**Tilton, NH:** A $1.3 million waterfront park took shape in downtown Tilton at the site of an abandoned flour mill with help from the Land and Water Conservation Fund in partnership with state and local funding and a remarkable show of community support. The 2-acre site, restored for public use by an EPA funded cleanup, will feature boat ramps, fishing piers, picnic areas and a main pavilion topped by a restored bell preserved from the mill tower. LWCF funding assistance: $100,000. ([Source](https://www.nps.gov/subjects/lwcf/upload/LWCF_NH.pdf))
 
 
 ### Rhode Island
@@ -39,16 +43,18 @@ Below are some examples of LWCF projects specific to the New England area.
 
 ### Vermont
 
-**Lamoille County, VT:** Created in 1936 by a 30-acre gift from the town of Elmore, Elmore State Park has grown to become a popular recreation facility complete with a campground, trails, and a fire tower lookout that provides breathtaking views. The park’s bathhouse, constructed by the Civilian Conservation Corps 75 years ago, was showing its age and suffering from decay. With help from the NPS, Vermont has carefully restored the building so that it can once again support recreation activities in the park and positively contribute to the character of the surrounding area.
+**Lamoille County, VT:** Created in 1936 by a 30-acre gift from the town of Elmore, Elmore State Park has grown to become a popular recreation facility complete with a campground, trails, and a fire tower lookout that provides breathtaking views. The park’s bathhouse, constructed by the Civilian Conservation Corps 75 years ago, was showing its age and suffering from decay. With help from the NPS, Vermont has carefully restored the building so that it can once again support recreation activities in the park and positively contribute to the character of the surrounding area. ([Source](https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf))
 
-**Black Falls Basin, VT:** In 2001, there was one last chance to secure 3764 acres along the northern corridor of Vermont’s Long Trail. Two attempts in the 1990s to acquire the Black Falls Basin had failed — the second time when Land and Water Conservation Funds were unavailable. Drawing on more than 20 public and private funding sources, including the Vermont Department of Forests, Parks and Recreation, the Green Mountain Club completed the largest single land acquisition it had ever undertaken. The acquisition protected a wilderness experience for Long Trail hikers and important wildlife habitat. LWCF funding assistance: $407,000. ([Source](https://www.nps.gov/subjects/lwcf/upload/LWCF_VT.pdf))
+**Black Falls Basin, VT:** In 2001, there was one last chance to secure 3,764 acres along the northern corridor of Vermont’s Long Trail. Two attempts in the 1990s to acquire the Black Falls Basin had failed — the second time when Land and Water Conservation Funds were unavailable. Drawing on more than 20 public and private funding sources, including the Vermont Department of Forests, Parks and Recreation, the Green Mountain Club completed the largest single land acquisition it had ever undertaken. The acquisition protected a wilderness experience for Long Trail hikers and important wildlife habitat. LWCF funding assistance: $407,000. ([Source](https://www.nps.gov/subjects/lwcf/upload/LWCF_VT.pdf))
 
 
 ## Sources
 
 - [National Parks Service](https://www.nps.gov/subjects/lwcf/index.htm)
+- [LWCF Annual Report FY 2012](https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf)
 - [Investigate West LWCF Grants List 1965-2011](http://www.invw.org/2012/06/11/lwcf-grants-database-1283/)
 - [Appalachian Mountain Club LWCF At Risk Article](https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land)
+- [List of Exemplary Projects from nps.gov](https://www.nps.gov/subjects/lwcf/exemplary-projects.htm)
 - [A Map of LWCF Projects](https://wilderness.org/mapping-land-and-water-conservation-fund-lwcf)
 - [LWCF Summary Reports](https://waso-lwcf.ncrc.nps.gov/public/index.cfm)
 - [LWCF Coalition Tools and Documents](https://www.lwcfcoalition.com/tools/)
