@@ -39,6 +39,8 @@ Below are some examples of LWCF projects specific to the New England area.
 
 ### Vermont
 
+**Lamoille County, VT:** Created in 1936 by a 30-acre gift from the town of Elmore, Elmore State Park has grown to become a popular recreation facility complete with a campground, trails, and a fire tower lookout that provides breathtaking views. The park’s bathhouse, constructed by the Civilian Conservation Corps 75 years ago, was showing its age and suffering from decay. With help from the NPS, Vermont has carefully restored the building so that it can once again support recreation activities in the park and positively contribute to the character of the surrounding area.
+
 **Black Falls Basin, VT:** In 2001, there was one last chance to secure 3764 acres along the northern corridor of Vermont’s Long Trail. Two attempts in the 1990s to acquire the Black Falls Basin had failed — the second time when Land and Water Conservation Funds were unavailable. Drawing on more than 20 public and private funding sources, including the Vermont Department of Forests, Parks and Recreation, the Green Mountain Club completed the largest single land acquisition it had ever undertaken. The acquisition protected a wilderness experience for Long Trail hikers and important wildlife habitat. LWCF funding assistance: $407,000. ([Source](https://www.nps.gov/subjects/lwcf/upload/LWCF_VT.pdf))
 
 
