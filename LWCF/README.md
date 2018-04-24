@@ -4,11 +4,14 @@ The Land and Water Conservation Fund (LWCF) is a federal program that was establ
 
 The LWCF costs taxpayers nothing. It's primarily funded by the fees paid to the Bureau of Ocean Energy Management, Regulation and Enforcement by companies that drill offshore for oil and gas. It then uses this money to fund conservation projects, protect land, and create recreation opportunites for everyone. There's LWCF-protected land and water in all 50 states - everywhere from national parks, national forests, and wildlife refuges, to local playgrounds and soccer fields.
 
+Protecting and preserving recreational resources has a direct benefit to local economies as well. As noted by National Park Service Director Jonathan Jarvis in the LWCF's 2012 Annual Report:
 
+> Direct economic benefits include supporting a variety of local businesses through spending by park visitors, creating jobs and income for residents, and enhancing property values of nearby homes; all of which generate revenue for the communities near the parks. Indirectly, parks can help lower health care costs and the expense of constructing public infrastructure like stormwater management systems. Even better, the land protection provisions of the LWCF ensure that assisted parks will provide these benefits to future generations of Americans.
 
+<!--
 > More American jobs depend on trail sports (768,000) than there are lawyers (728,200) in the U.S. ([LWCF 2012 Annual Report](https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf))
-
-Unfortunately, the LWCF is set to expire in September of 2018, unless Congress re-authorizes it. Additionally, Congress is supposed to fully fund the LWCF with $900 million of the offshore drilling royalties every year, but they've consistently diverted much of this funding to other uses.
+-->
+Unfortunately, the LWCF is set to expire in September of 2018, unless Congress re-authorizes it. Additionally, Congress is supposed to fully fund the LWCF with $900 million of the offshore drilling royalties every year, but they've consistently diverted much of this funding to other uses. As of 2012, there's an estimated $18 billion of LWCF unmet needs.
 
 ## LWCF Projects in New England
 
