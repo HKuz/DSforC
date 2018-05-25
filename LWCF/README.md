@@ -53,11 +53,11 @@ Below are some examples of LWCF projects specific to the New England area.
 
 ## Sources
 
-- [National Parks Service](https://www.nps.gov/subjects/lwcf/index.htm)
-- [LWCF Annual Report FY 2012](https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf)
-- [Investigate West LWCF Grants List 1965-2011](http://www.invw.org/2012/06/11/lwcf-grants-database-1283/)
-- [Appalachian Mountain Club LWCF At Risk Article](https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land)
-- [List of Exemplary Projects from nps.gov](https://www.nps.gov/subjects/lwcf/exemplary-projects.htm)
-- [A Map of LWCF Projects](https://wilderness.org/mapping-land-and-water-conservation-fund-lwcf)
-- [LWCF Summary Reports](https://waso-lwcf.ncrc.nps.gov/public/index.cfm)
-- [LWCF Coalition Tools and Documents](https://www.lwcfcoalition.com/tools/)
+- <a href="https://www.nps.gov/subjects/lwcf/index.htm" target="_blank">National Parks Service</a>
+- <a href="https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf" target="_blank">LWCF Annual Report FY 2012</a>
+- <a href="http://www.invw.org/2012/06/11/lwcf-grants-database-1283/" target="_blank">Investigate West LWCF Grants List 1965-2011</a>
+- <a href="https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land" target="_blank">Appalachian Mountain Club LWCF At Risk Article</a>
+- <a href="https://www.nps.gov/subjects/lwcf/exemplary-projects.htm" target="_blank">List of Exemplary Projects from nps.gov</a>
+- <a href="https://wilderness.org/mapping-land-and-water-conservation-fund-lwcf" target="_blank">A Map of LWCF Projects</a>
+- <a href="https://waso-lwcf.ncrc.nps.gov/public/index.cfm" target="_blank">LWCF Summary Reports</a>
+- <a href="https://www.lwcfcoalition.com/tools/" target="_blank">LWCF Coalition Tools and Documents</a>
