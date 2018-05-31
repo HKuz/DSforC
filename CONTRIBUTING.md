@@ -6,8 +6,8 @@ Thanks for your interest to contribute to this repository! Please read through t
 ## Software Overview and Prerequisites
 
 - This project uses the version control software Git to track changes - make sure to download a version of it from the [Git website](https://git-scm.com/). Check out the [Pro Git book](https://git-scm.com/book/en/v2) for a Git tutorial
-- README.md files are plain text files formatted using standard Markdown syntax. There's a quick tutorial at [commonmark.org](http://commonmark.org/help/tutorial/)
-- Interactive code summaries will use [Jupyter Notebooks](https://jupyter.org/)
+- README.md files are plain text files formatted using standard Markdown syntax. There's a quick tutorial at [commonmark.org](http://commonmark.org/help/tutorial/) for the uninitiated
+- Interactive code summaries use [Jupyter Notebooks](https://jupyter.org/)
 
 ## Steps to Contribute
 
