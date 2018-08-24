@@ -7,7 +7,7 @@ In that spirit, this repository is for data science and research projects that s
 **Projects**
 
 - [Land and Water Conservation Fund (LWCF)](./LWCF/README.md)
-- [Sources for Conservation Funding](./ConservationFunding/SourcesForConservationFunding.ipynb)
+- [Sources of Conservation Funding](./ConservationFunding/SourcesForConservationFunding.ipynb)
 
 
 ## License
