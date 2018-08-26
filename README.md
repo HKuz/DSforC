@@ -2,7 +2,7 @@
 
 Thanks in large part to Aldo Leopold's writing, one of the seven tenets of the [North American Model of Wildlife Conservation](https://en.wikipedia.org/wiki/North_American_Model_of_Wildlife_Conservation) is that science should form the basis for informed management and decision-making processes.
 
-In that spirit, this repository is for data science and research projects that support and explore conservation. Each project will have its own folder, with an overview in a README file or described in the Jupyter notebook that contains the analysis.
+In that spirit, this repository is for data science, research projects, and analysis of conservation topics and issues. Each project will have its own folder, with a description in the respective README file or Jupyter notebook.
 
 **Projects**
 
