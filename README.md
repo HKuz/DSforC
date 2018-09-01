@@ -12,4 +12,4 @@ In that spirit, this repository is for data science, research projects, and anal
 
 ## License
 
-All work in this repository falls under the GPL v2.0 software license with the exception of source data. Each dataset is saved in its respective project folder. Anything in a `/Data` folder retains any original license and use policy under which it was released, sources are noted where possible.
+Original datasets, which are saved in a `/Data` folder under their respective project, retain any original license and use policy under which it was released. All other work in this repository falls under the GPL v2.0 software license. Sources are noted where possible.
