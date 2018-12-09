@@ -2,7 +2,7 @@
 
 The Land and Water Conservation Fund (LWCF) is a federal program that was established in the 1960's to help protect natural areas, water resources, and important cultural heritage sites in the US. It provides funds and matching grants so local, state, or the federal government can acquire land and water, or easements on land and water, and protect these places from development.
 
-The LWCF costs taxpayers nothing. It's primarily funded by the fees paid to the Bureau of Ocean Energy Management, Regulation and Enforcement by companies that drill offshore for oil and gas. It then uses this money to fund conservation projects, protect land, and create recreation opportunites for everyone. There's LWCF-protected land and water in all 50 states - everywhere from national parks, national forests, and wildlife refuges, to local playgrounds and soccer fields.
+The LWCF costs taxpayers nothing. It's primarily funded by the fees going to the Bureau of Ocean Energy Management, Regulation and Enforcement that are paid by companies to drill offshore for oil and gas. It then uses this money to fund conservation projects, protect land, and create recreation opportunites for everyone. There's LWCF-protected land and water in all 50 states - everywhere from national parks, national forests, and wildlife refuges, to local playgrounds and soccer fields.
 
 Protecting and preserving recreational resources has a direct benefit to local economies as well. As noted by National Park Service Director Jonathan Jarvis in the LWCF's 2012 Annual Report:
 
