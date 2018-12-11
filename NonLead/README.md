@@ -11,3 +11,5 @@ TO COME - Analysis and summary of science regarding the use of lead ammunition a
 - [**State Regulations Concerning the Use of Lead-Free Ammunition.** Lead Free Hunting](http://www.leadfreehunting.com/state-regulations/)
 - [**Environmental Stewardship Planning.** Lead management on ranges](https://www.nssf.org/establishing-an-environmental-stewardship-plan-for-firearms-ranges/)
 - [**Corvus corax (Common raven) Population.** IUCN Red List of Threatened Species.](http://www.iucnredlist.org/details/22706068/0)
+- [**Lead Bullet Risks for Wildlife and Humans.** National Park Service.](https://www.nps.gov/pinn/learn/nature/leadinfo.htm)
+- [**Lead Poisoning in Wild Birds.** USGS Wildlife Research Center. 2009.](https://pubs.usgs.gov/fs/2009/3051/pdf/fs2009-3051.pdf)
