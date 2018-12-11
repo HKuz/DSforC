@@ -9,4 +9,5 @@ TO COME - Analysis and summary of science regarding the use of lead ammunition a
 - [**Non-Lead Ammunition: Manufactures and Bullet Performance.** Hunting With Non- Lead.](http://www.huntingwithnonlead.org/ammoMain2015.html)
 - [**Sources and Implications of Lead Ammunition and Fishing Tackle on Natural Resources. The Wildlife Society, American Fisheries Society.** Technical Review 08-01. 2008.](http://wildlife.org/wp-content/uploads/2014/05/Lead08-1.pdf)
 - [**State Regulations Concerning the Use of Lead-Free Ammunition.** Lead Free Hunting](http://www.leadfreehunting.com/state-regulations/)
+- [**Environmental Stewardship Planning.** Lead management on ranges](https://www.nssf.org/establishing-an-environmental-stewardship-plan-for-firearms-ranges/)
 - [**Corvus corax (Common raven) Population.** IUCN Red List of Threatened Species.](http://www.iucnredlist.org/details/22706068/0)
