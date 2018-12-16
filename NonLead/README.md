@@ -1,6 +1,6 @@
 # Use of Non-Lead Ammunition and Fishing Tackle
 
-TO COME - Analysis and summary of science regarding the use of lead ammunition and fishing tackle in the US.
+TO COME - Analysis and summary of any analysis, research, or studies regarding the use of lead ammunition and fishing tackle in the US.
 
 ## References
 - [**Effects of Lead (Pb) Exposure on Wildlife.** The Wildlife Society Fact Sheet, updated March 2017](http://wildlife.org/wp-content/uploads/2017/05/FactSheet-Pb_FINAL.pdf)
