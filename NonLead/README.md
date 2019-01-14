@@ -13,4 +13,5 @@ TO COME - Analysis and summary of any analysis, research, or studies regarding t
 - [**Environmental Stewardship Planning.** Lead management on ranges](https://www.nssf.org/establishing-an-environmental-stewardship-plan-for-firearms-ranges/)
 - [**Lead in Fishing Tackle.** American Sportfishing Association](https://asafishing.org/advocacy_and_policy/legislative-action/lead-in-fishing-tackle/)
 - [**Sources and Implications of Lead Ammunition and Fishing Tackle on Natural Resources. The Wildlife Society, American Fisheries Society.** Technical Review 08-01. 2008.](http://wildlife.org/wp-content/uploads/2014/05/Lead08-1.pdf)
+- [**Get the Lead Out** Minnesota Pollution Control Agency on the use of non-lead fishing tackle](https://www.pca.state.mn.us/sites/default/files/w-hhw4-66.pdf)
 - [**Tips for Deer Hunters** Minnesota Department of Natural Resources](https://files.dnr.state.mn.us/fish_wildlife/lead/bulletstudy/resources/huntertips.pdf)
