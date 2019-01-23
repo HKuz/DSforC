@@ -6,12 +6,12 @@ In that spirit, this repository is for data science, research projects, and anal
 
 **Projects**
 
-- [Land and Water Conservation Fund (LWCF)](./LWCF/README.md)
+- [Land and Water Conservation Fund (LWCF) - New England](./LWCF/README.md)
 - [Sources of Conservation Funding](./ConservationFunding/SourcesForConservationFunding.ipynb)
 <!--
     - [Use of Non-Lead Ammunition and Fishing Tackle](./Non_Lead/README.md)
 -->
-
+- [Hunter Participation](#)
 
 ## License
 
