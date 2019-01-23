@@ -8,7 +8,9 @@ In that spirit, this repository is for data science, research projects, and anal
 
 - [Land and Water Conservation Fund (LWCF)](./LWCF/README.md)
 - [Sources of Conservation Funding](./ConservationFunding/SourcesForConservationFunding.ipynb)
-- [Use of Non-Lead Ammunition and Fishing Tackle](./Non_Lead/README.md)
+<!--
+    - [Use of Non-Lead Ammunition and Fishing Tackle](./Non_Lead/README.md)
+-->
 
 
 ## License
