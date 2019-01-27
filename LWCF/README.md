@@ -51,13 +51,16 @@ Below are some examples of LWCF projects specific to the New England area.
 **Black Falls Basin, VT:** In 2001, there was one last chance to secure 3,764 acres along the northern corridor of Vermont’s Long Trail. Two attempts in the 1990s to acquire the Black Falls Basin had failed — the second time when Land and Water Conservation Funds were unavailable. Drawing on more than 20 public and private funding sources, including the Vermont Department of Forests, Parks and Recreation, the Green Mountain Club completed the largest single land acquisition it had ever undertaken. The acquisition protected a wilderness experience for Long Trail hikers and important wildlife habitat. LWCF funding assistance: $407,000. (<a href="https://www.nps.gov/subjects/lwcf/upload/LWCF_VT.pdf" target="_blank"> Source</a>)
 
 
-## Sources
+## Information Sources
 
 - <a href="https://www.nps.gov/subjects/lwcf/index.htm" target="_blank">National Parks Service</a>
 - <a href="https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf" target="_blank">LWCF Annual Report FY 2012</a>
-- <a href="http://www.invw.org/2012/06/11/lwcf-grants-database-1283/" target="_blank">Investigate West LWCF Grants List 1965-2011</a>
 - <a href="https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land" target="_blank">Appalachian Mountain Club LWCF At Risk Article</a>
 - <a href="https://www.nps.gov/subjects/lwcf/exemplary-projects.htm" target="_blank">List of Exemplary Projects from nps.gov</a>
 - <a href="https://wilderness.org/mapping-land-and-water-conservation-fund-lwcf" target="_blank">A Map of LWCF Projects</a>
 - <a href="https://waso-lwcf.ncrc.nps.gov/public/index.cfm" target="_blank">LWCF Summary Reports</a>
 - <a href="https://www.lwcfcoalition.com/tools/" target="_blank">LWCF Coalition Tools and Documents</a>
+
+## Data Sources
+
+- <a href="http://www.invw.org/2012/06/11/lwcf-grants-database-1283/" target="_blank">Investigate West LWCF Grants List 1965-2011</a>
