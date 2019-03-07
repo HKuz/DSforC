@@ -9,9 +9,7 @@ In that spirit, this repository is for data science, research projects, and anal
 - [Land and Water Conservation Fund (LWCF) - New England](./LWCF/README.md)
 - [Sources of Conservation Funding](./ConservationFunding/SourcesForConservationFunding.ipynb)
 - [Hunter Participation](./Participation/README.md)
-<!--
-    - [Use of Non-Lead Ammunition and Fishing Tackle](./Non_Lead/README.md)
--->
+
 ## License
 
 Original datasets, which are saved in a `/Data` folder under their respective project, retain any original license and use policy under which they were released. Sources for datasets are noted in the project README or Jupyter Notebook. All other work in this repository falls under the GPL v2.0 software license. Sources are noted where possible.
