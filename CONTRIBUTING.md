@@ -1,7 +1,7 @@
 
 # How to Contribute
 
-Thanks for your interest in contributing to this repository! Please read through the following instructions to get a local version of this project set up on your machine and to navigate the pull request (PR) process.
+Thanks for your interest to contribute to this repository! Please read through the following instructions to get a local version of this project set up on your machine and to navigate the pull request (PR) process.
 
 ## Software Overview and Prerequisites
 
