@@ -26,6 +26,7 @@ def main():
     innerHTML = browser.execute_script("return document.body.innerHTML")
     soup = bs4.BeautifulSoup(innerHTML, features="lxml")
     elem = soup.select(css_sel)
+    print(len(elem))
     print(elem[0].text)
     time.sleep(2)
     browser.quit()
