@@ -7,7 +7,7 @@ In that spirit, this repository is for data science, analysis, and visualization
 **Projects**
 
 - [Overview of the Land and Water Conservation Fund (LWCF) - New England](./LWCF/README.md)
-- [Overview of Main, Direct Sources of Conservation Funding](./ConservationFunding/SourcesForConservationFunding.ipynb)
+- [Overview of Main and Direct Sources of Conservation Funding](./ConservationFunding/SourcesForConservationFunding.ipynb)
 - [Hunter Participation Growth & Decline by License Sales](./Participation/README.md)
 - [Analysis of Public Comments Regarding the EPA's Revised Definition of "Waters of the United States"](./WaterRevision/README.md)
 
