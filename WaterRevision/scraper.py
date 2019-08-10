@@ -14,6 +14,9 @@ import bs4
 
 
 def main():
+    # TODO: Import and loop over document with all comment link data
+
+    # TODO: Create loop with scraper code to get all comments
     url = 'https://www.regulations.gov/document?D=EPA-HQ-OW-2018-0149-3974'
     # css_path = ('html body div div.printPageContainer.GIY1LSJCQC div'
     #             '.GIY1LSJNPC.GIY1LSJBQC.printPage div.GIY1LSJAQC div.'
@@ -28,7 +31,10 @@ def main():
     soup = bs4.BeautifulSoup(innerHTML, features="lxml")
     elem = soup.select(css_sel)
     print(len(elem))
-    print(elem[0].text)
+
+    # TODO: Store comments in database or file
+    comment = elem[0].text
+    print(comment)
     time.sleep(2)
     browser.quit()
 
