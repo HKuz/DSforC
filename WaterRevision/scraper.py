@@ -1,9 +1,10 @@
 #!/Applications/anaconda/envs/webscrapy/bin
 
 '''
-Uses Anaconda environment with selenium to load JS on page and get content
-    - Python 3.6, selenium, and Beautiful Soup 4 (bs4)
-    - Run `source activate webscrapy`, `python scraper.py`
+Uses Anaconda environment "webby" with selenium to load JavaScript on the page
+and get content:
+    - Python 3.7, selenium, requests, scrapy, and Beautiful Soup 4 (bs4)
+    - Run `conda activate webby`, `python scraper.py`
 '''
 
 
