@@ -1,4 +1,4 @@
-#!/Applications/anaconda/envs/webscrapy/bin
+#!/Applications/anaconda/envs/webby/bin
 
 '''
 Uses Anaconda environment "webby" with selenium to load JavaScript on the page
