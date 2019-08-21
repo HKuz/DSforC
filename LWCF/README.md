@@ -1,27 +1,27 @@
 # Land and Water Conservation Fund (LWCF)
 
-The Land and Water Conservation Fund (LWCF) is a federal program that was established in the 1960's to help protect natural areas, water resources, and important cultural heritage sites in the US. It provides funds and matching grants so local, state, or the federal government can acquire land and water, or easements on land and water, and protect these places from development.
+The Land and Water Conservation Fund (LWCF) is a federal program that was established in the 1960's to help protect natural areas, water resources, and important cultural heritage sites in the United States. It provides funds and matching grants for local, state, or the federal government to provide more outdoor recreation opportunities as well as to acquire land and water (or easements on land and water) to protect these places from development.
 
 The LWCF costs taxpayers nothing. It's primarily funded by the fees going to the Bureau of Ocean Energy Management, Regulation and Enforcement that are paid by companies to drill offshore for oil and gas. It then uses this money to fund conservation projects, protect land, and create recreation opportunites for everyone. There's LWCF-protected land and water in all 50 states - everywhere from national parks, national forests, and wildlife refuges, to local playgrounds and soccer fields.
 
-Protecting and preserving recreational resources has a direct benefit to local economies as well. As noted by National Park Service Director Jonathan Jarvis in the LWCF's 2012 Annual Report:
+Protecting and preserving recreational resources has a direct benefit to local economies as well. As noted by National Park Service Director Jonathan Jarvis in the LWCF's 2012 Annual Report (the most recent one available):
 
 > Direct economic benefits include supporting a variety of local businesses through spending by park visitors, creating jobs and income for residents, and enhancing property values of nearby homes; all of which generate revenue for the communities near the parks. Indirectly, parks can help lower health care costs and the expense of constructing public infrastructure like stormwater management systems. Even better, the land protection provisions of the LWCF ensure that assisted parks will provide these benefits to future generations of Americans.
 
 <!--
 > More American jobs depend on trail sports (768,000) than there are lawyers (728,200) in the U.S. ([LWCF 2012 Annual Report](https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf))
 -->
-Unfortunately, the LWCF is set to expire in September of 2018, unless Congress re-authorizes it. Additionally, Congress is supposed to fully fund the LWCF with $900 million of the offshore drilling royalties every year, but they've consistently diverted much of this funding to other uses. As of 2012, there's an estimated $18 billion of unmet needs for LWCF projects.
+The LWCF was permanently re-authorized when S.47 was signed into law in March 2019. However, while Congress is supposed to fully fund the LWCF with $900 million of the offshore drilling royalties every year, this has only happened twice in LWCF's history. In order for the program to continue maintaining, enhancing, and creating public lands, or providing outdoor recreation opportunities for nearly every county in the United States, it needs proper funding. To put this in context, as of 2012, there were an estimated $18 billion of unmet needs for LWCF projects.
 
 ## LWCF Projects in New England
 
-Below are some examples of LWCF projects specific to the New England area.
+Below are some examples of LWCF projects specific to the New England area - text provided by nps.gov write-ups (see links).
 
 ### Connecticut
 
-**Ridgefield, CT:** In one of the largest single Land and Water Conservation Fund grants to the State of Connecticut, the 460-acre Bennett's Pond property was acquired by the Department of Environmental Protection as an expansion of the adjacent Wooster Mountain State Park in Ridgefield. Recreation in and around the pond includes fishing, hunting, hiking, mountain biking and cross-country skiing. LWCF funding assistance: $2,197,863. (<a href="https://www.nps.gov/subjects/lwcf/upload/LWCF_CT.pdf" target="_blank">Source</a>)
-
 **Connecticut River Watershed:** The 36,000-acre Silvio O. Conte National Fish and Wildlife Refuge encompasses the Connecticut River’s watershed from northern New Hampshire and Vermont down to Long Island Sound in Connecticut. Nearly $10 million in LWCF grants have aided in protection of land within the refuge. Additional grants have protected even more land within the 7.2-million acre watershed. (<a href="https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land" target="_blank">Source</a>)
+
+**Ridgefield, CT:** In one of the largest single Land and Water Conservation Fund grants to the State of Connecticut, the 460-acre Bennett's Pond property was acquired by the Department of Environmental Protection as an expansion of the adjacent Wooster Mountain State Park in Ridgefield. Recreation in and around the pond includes fishing, hunting, hiking, mountain biking and cross-country skiing. LWCF funding assistance: $2,197,863. (<a href="https://www.nps.gov/subjects/lwcf/upload/LWCF_CT.pdf" target="_blank">Source</a>)
 
 ### Maine
 
