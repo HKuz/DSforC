@@ -23,17 +23,15 @@ const getMapData = d3.json(mapPath);
 const getGrantData = d3.json(grantPath);
 
 Promise.all([getMapData, getGrantData]).then(function(values) {
-  const map = values[0];
+  const us = values[0];
   const grants = values[1];
 
 
-  const counties = topojson.feature(map, map.objects.countries).features;
-  const states = topojson.mesh(map, map.objects.states, (a, b) => a !== b);
+  const counties = topojson.feature(us, us.objects.counties).features;
+  const states = topojson.mesh(us, us.objects.states, (a, b) => a !== b);
 
-  // Tooltip setup
-  // const tooltip = d3.select("#tooltip")
-  //     .style("display", "none")
-  //     .classed("tooltip", true);
+  // Map state id (2-digit number) to properties obj (which includes state name)
+  const st = new Map(us.objects.states.geometries.map(d => [d.id, d.properties]));
 
   // Create county map
   svg.append("g")
@@ -43,7 +41,7 @@ Promise.all([getMapData, getGrantData]).then(function(values) {
     // .attr("fill", d => color(data.get(d.id)))
     .attr("d", path)
   .append("title")
-    .text(d => `${d.properties.name}, ${states.get(d.id.slice(0, 2)).name}`);
+    .text(d => `${d.properties.name}, ${st.get(d.id.slice(0, 2)).name}`);
   // .text(d => `${d.properties.name}, ${states.get(d.id.slice(0, 2)).name}
   // ${format(data.get(d.id))}`);
 
@@ -54,3 +52,5 @@ Promise.all([getMapData, getGrantData]).then(function(values) {
     .attr("stroke", "white")
     .attr("stroke-linejoin", "round")
     .attr("d", path);
+
+});

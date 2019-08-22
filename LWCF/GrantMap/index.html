@@ -14,19 +14,23 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
 
     <!-- D3 topoJSON script -->
-    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <!-- <script src="https://d3js.org/topojson.v1.min.js"></script> -->
+    <script src="https://unpkg.com/topojson@3"></script>
 
     <h1>LWCF Grant Amounts by US County</h1>
-    <p>The LWCF grant amounts shown in the map cover the period 1965-2011 for single-counties only. The totals do not show grants categorized as state planning or grants that span multiple counties.</p>
+    <p>The LWCF grant amounts shown in the map cover the period 1965-2011 for single-counties only.</p>
+
+    <p>The totals do not show grants categorized as state planning or grants that span multiple counties.</p>
+
     <div id="map"></div>
     <div id="tooltip"></div>
     <footer>
       Sources:<br />
-      Map made with Natural Earth<br />
-      LWCF Grant amounts collected by <a href="http://www.invw.org/2012/06/11/lwcf-grants-database-1283/">Investigate West</a>
+      Map made with US Census data<br />
+      LWCF grant amounts collected by <a href="http://www.invw.org/2012/06/11/lwcf-grants-database-1283/">Investigate West</a>
     </footer>
 
     <!-- Script with D3 code -->
-    <script type="text/javascript" src="./index.js"></script>
+    <script type="text/javascript" src="./County_Map_Script.js"></script>
   </body>
 </html>
