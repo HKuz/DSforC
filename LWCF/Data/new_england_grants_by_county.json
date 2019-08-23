@@ -1,0 +1,404 @@
+{
+  "9001": {
+    "state": "CT",
+    "num_grants": 65,
+    "grant_value": 7745008.2599999998,
+    "county": "Fairfield County"
+  },
+  "9003": {
+    "state": "CT",
+    "num_grants": 69,
+    "grant_value": 11234580.5300000012,
+    "county": "Hartford County"
+  },
+  "9005": {
+    "state": "CT",
+    "num_grants": 23,
+    "grant_value": 2082009.3500000001,
+    "county": "Litchfield County"
+  },
+  "9007": {
+    "state": "CT",
+    "num_grants": 37,
+    "grant_value": 4815886.8399999999,
+    "county": "Middlesex County"
+  },
+  "9009": {
+    "state": "CT",
+    "num_grants": 58,
+    "grant_value": 16042978.5499999989,
+    "county": "New Haven County"
+  },
+  "9011": {
+    "state": "CT",
+    "num_grants": 53,
+    "grant_value": 10009612.6699999999,
+    "county": "New London County"
+  },
+  "9013": {
+    "state": "CT",
+    "num_grants": 27,
+    "grant_value": 1640086.5900000001,
+    "county": "Tolland County"
+  },
+  "9015": {
+    "state": "CT",
+    "num_grants": 23,
+    "grant_value": 2750451.9800000004,
+    "county": "Windham County"
+  },
+  "25001": {
+    "state": "MA",
+    "num_grants": 19,
+    "grant_value": 6626674.0900000008,
+    "county": "Barnstable County"
+  },
+  "25003": {
+    "state": "MA",
+    "num_grants": 17,
+    "grant_value": 1578548.6599999999,
+    "county": "Berkshire County"
+  },
+  "25005": {
+    "state": "MA",
+    "num_grants": 28,
+    "grant_value": 5145646.2800000003,
+    "county": "Bristol County"
+  },
+  "25007": {
+    "state": "MA",
+    "num_grants": 2,
+    "grant_value": 367473.5,
+    "county": "Dukes County"
+  },
+  "25009": {
+    "state": "MA",
+    "num_grants": 51,
+    "grant_value": 10829314.2200000007,
+    "county": "Essex County"
+  },
+  "25011": {
+    "state": "MA",
+    "num_grants": 7,
+    "grant_value": 347759.22,
+    "county": "Franklin County"
+  },
+  "25013": {
+    "state": "MA",
+    "num_grants": 38,
+    "grant_value": 5888716.8400000008,
+    "county": "Hampden County"
+  },
+  "25015": {
+    "state": "MA",
+    "num_grants": 18,
+    "grant_value": 1880147.8999999999,
+    "county": "Hampshire County"
+  },
+  "25017": {
+    "state": "MA",
+    "num_grants": 97,
+    "grant_value": 23679972.4499999993,
+    "county": "Middlesex County"
+  },
+  "25019": {
+    "state": "MA",
+    "num_grants": 1,
+    "grant_value": 262500.0,
+    "county": "Nantucket County"
+  },
+  "25021": {
+    "state": "MA",
+    "num_grants": 42,
+    "grant_value": 7095346.6999999993,
+    "county": "Norfolk County"
+  },
+  "25023": {
+    "state": "MA",
+    "num_grants": 15,
+    "grant_value": 4761473.21,
+    "county": "Plymouth County"
+  },
+  "25025": {
+    "state": "MA",
+    "num_grants": 56,
+    "grant_value": 15863856.25,
+    "county": "Suffolk County"
+  },
+  "25027": {
+    "state": "MA",
+    "num_grants": 47,
+    "grant_value": 10498489.75,
+    "county": "Worcester County"
+  },
+  "23001": {
+    "state": "ME",
+    "num_grants": 36,
+    "grant_value": 3437203.0799999996,
+    "county": "Androscoggin County"
+  },
+  "23003": {
+    "state": "ME",
+    "num_grants": 88,
+    "grant_value": 3300526.2900000005,
+    "county": "Aroostook County"
+  },
+  "23005": {
+    "state": "ME",
+    "num_grants": 104,
+    "grant_value": 5675407.29,
+    "county": "Cumberland County"
+  },
+  "23007": {
+    "state": "ME",
+    "num_grants": 35,
+    "grant_value": 1003993.0499999999,
+    "county": "Franklin County"
+  },
+  "23009": {
+    "state": "ME",
+    "num_grants": 35,
+    "grant_value": 815912.8100000001,
+    "county": "Hancock County"
+  },
+  "23011": {
+    "state": "ME",
+    "num_grants": 77,
+    "grant_value": 3136951.8499999996,
+    "county": "Kennebec County"
+  },
+  "23013": {
+    "state": "ME",
+    "num_grants": 42,
+    "grant_value": 1658022.8900000001,
+    "county": "Knox County"
+  },
+  "23015": {
+    "state": "ME",
+    "num_grants": 29,
+    "grant_value": 928161.9900000001,
+    "county": "Lincoln County"
+  },
+  "23017": {
+    "state": "ME",
+    "num_grants": 34,
+    "grant_value": 1422418.4399999999,
+    "county": "Oxford County"
+  },
+  "23019": {
+    "state": "ME",
+    "num_grants": 80,
+    "grant_value": 3533472.7399999993,
+    "county": "Penobscot County"
+  },
+  "23021": {
+    "state": "ME",
+    "num_grants": 25,
+    "grant_value": 3490124.0700000003,
+    "county": "Piscataquis County"
+  },
+  "23023": {
+    "state": "ME",
+    "num_grants": 29,
+    "grant_value": 1118216.2699999998,
+    "county": "Sagadahoc County"
+  },
+  "23025": {
+    "state": "ME",
+    "num_grants": 29,
+    "grant_value": 2808857.3699999996,
+    "county": "Somerset County"
+  },
+  "23027": {
+    "state": "ME",
+    "num_grants": 30,
+    "grant_value": 1131598.2399999998,
+    "county": "Waldo County"
+  },
+  "23029": {
+    "state": "ME",
+    "num_grants": 46,
+    "grant_value": 1793528.0700000001,
+    "county": "Washington County"
+  },
+  "23031": {
+    "state": "ME",
+    "num_grants": 67,
+    "grant_value": 3226185.1700000004,
+    "county": "York County"
+  },
+  "33001": {
+    "state": "NH",
+    "num_grants": 57,
+    "grant_value": 3078096.71,
+    "county": "Belknap County"
+  },
+  "33003": {
+    "state": "NH",
+    "num_grants": 33,
+    "grant_value": 1702218.6300000001,
+    "county": "Carroll County"
+  },
+  "33005": {
+    "state": "NH",
+    "num_grants": 53,
+    "grant_value": 2532103.3700000001,
+    "county": "Cheshire County"
+  },
+  "33007": {
+    "state": "NH",
+    "num_grants": 29,
+    "grant_value": 2248184.7700000005,
+    "county": "Coos County"
+  },
+  "33009": {
+    "state": "NH",
+    "num_grants": 57,
+    "grant_value": 3225109.04,
+    "county": "Grafton County"
+  },
+  "33011": {
+    "state": "NH",
+    "num_grants": 115,
+    "grant_value": 6656902.4500000011,
+    "county": "Hillsborough County"
+  },
+  "33013": {
+    "state": "NH",
+    "num_grants": 78,
+    "grant_value": 3822227.4100000001,
+    "county": "Merrimack County"
+  },
+  "33015": {
+    "state": "NH",
+    "num_grants": 117,
+    "grant_value": 6217100.1900000004,
+    "county": "Rockingham County"
+  },
+  "33017": {
+    "state": "NH",
+    "num_grants": 30,
+    "grant_value": 1393559.1900000002,
+    "county": "Strafford County"
+  },
+  "33019": {
+    "state": "NH",
+    "num_grants": 37,
+    "grant_value": 1216055.1000000001,
+    "county": "Sullivan County"
+  },
+  "44001": {
+    "state": "RI",
+    "num_grants": 17,
+    "grant_value": 2504765.0200000005,
+    "county": "Bristol County"
+  },
+  "44003": {
+    "state": "RI",
+    "num_grants": 52,
+    "grant_value": 4462589.6300000008,
+    "county": "Kent County"
+  },
+  "44005": {
+    "state": "RI",
+    "num_grants": 35,
+    "grant_value": 4809097.79,
+    "county": "Newport County"
+  },
+  "44007": {
+    "state": "RI",
+    "num_grants": 139,
+    "grant_value": 13877173.3799999971,
+    "county": "Providence County"
+  },
+  "44009": {
+    "state": "RI",
+    "num_grants": 75,
+    "grant_value": 12637117.7700000014,
+    "county": "Washington County"
+  },
+  "50001": {
+    "state": "VT",
+    "num_grants": 43,
+    "grant_value": 1648385.1600000001,
+    "county": "Addison County"
+  },
+  "50003": {
+    "state": "VT",
+    "num_grants": 35,
+    "grant_value": 2362148.2399999998,
+    "county": "Bennington County"
+  },
+  "50005": {
+    "state": "VT",
+    "num_grants": 51,
+    "grant_value": 2394418.4899999998,
+    "county": "Caledonia County"
+  },
+  "50007": {
+    "state": "VT",
+    "num_grants": 126,
+    "grant_value": 6311942.0400000019,
+    "county": "Chittenden County"
+  },
+  "50009": {
+    "state": "VT",
+    "num_grants": 12,
+    "grant_value": 339369.84,
+    "county": "Essex County"
+  },
+  "50011": {
+    "state": "VT",
+    "num_grants": 36,
+    "grant_value": 2158306.3099999996,
+    "county": "Franklin County"
+  },
+  "50013": {
+    "state": "VT",
+    "num_grants": 12,
+    "grant_value": 431485.07,
+    "county": "Grand Isle County"
+  },
+  "50015": {
+    "state": "VT",
+    "num_grants": 22,
+    "grant_value": 1742214.4399999999,
+    "county": "Lamoille County"
+  },
+  "50017": {
+    "state": "VT",
+    "num_grants": 26,
+    "grant_value": 644489.25,
+    "county": "Orange County"
+  },
+  "50019": {
+    "state": "VT",
+    "num_grants": 28,
+    "grant_value": 763755.98,
+    "county": "Orleans County"
+  },
+  "50021": {
+    "state": "VT",
+    "num_grants": 52,
+    "grant_value": 4224321.3300000001,
+    "county": "Rutland County"
+  },
+  "50023": {
+    "state": "VT",
+    "num_grants": 62,
+    "grant_value": 2688311.9799999991,
+    "county": "Washington County"
+  },
+  "50025": {
+    "state": "VT",
+    "num_grants": 24,
+    "grant_value": 1118088.9100000001,
+    "county": "Windham County"
+  },
+  "50027": {
+    "state": "VT",
+    "num_grants": 47,
+    "grant_value": 1954630.5899999999,
+    "county": "Windsor County"
+  }
+}
