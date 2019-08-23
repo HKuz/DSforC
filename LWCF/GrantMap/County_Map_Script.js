@@ -2,10 +2,11 @@
 
 // Path to topoJSON county data and grant data
 mapPath = 'https://cdn.jsdelivr.net/npm/us-atlas@2/us/10m.json';
-grantPath = '../Data/county-records.json';  // TODO: Update with all counties
+grantPath = '../Data/new_england_grants_by_county.json';  // TODO: Update with all counties
 
-const format = d3.format(",");
+const format = d3.format("$,");
 const path = d3.geoPath();
+const color = d3.scaleQuantize([1, 10], d3.schemeGreens[9]);  // TODO: Update for max/min in data
 
 const svg = d3.select("#map")
   .append("svg")
@@ -35,15 +36,25 @@ Promise.all([getMapData, getGrantData]).then(function(values) {
 
   // Create county map
   svg.append("g")
-  .selectAll("path")
-  .data(counties)
-  .join("path")
-    // .attr("fill", d => color(data.get(d.id)))
-    .attr("d", path)
-  .append("title")
-    .text(d => `${d.properties.name}, ${st.get(d.id.slice(0, 2)).name}`);
-  // .text(d => `${d.properties.name}, ${states.get(d.id.slice(0, 2)).name}
-  // ${format(data.get(d.id))}`);
+    .selectAll("path")
+    .data(counties)
+    .join("path")
+      .attr("fill", d => {
+        if (grants[d.id]) {
+          return color(grants[d.id]['grant_value']);
+        } else {
+          return "gray"
+        }
+      })
+      .attr("d", path)
+    .append("title")
+      .text(d => {
+        if (grants[d.id]) {
+          return `${d.properties.name}, ${st.get(d.id.slice(0, 2)).name}\n${format(grants[d.id]['grant_value'])}`;
+        } else {
+         return `${d.properties.name}, ${st.get(d.id.slice(0, 2)).name}`;
+        }
+      });
 
   // Add state outlines
   svg.append("path")
