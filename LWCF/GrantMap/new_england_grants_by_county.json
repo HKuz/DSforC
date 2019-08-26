@@ -1,47 +1,47 @@
 {
-  "9001": {
+  "09001": {
     "state": "CT",
     "num_grants": 65,
     "grant_value": 7745008,
     "county": "Fairfield County"
   },
-  "9003": {
+  "09003": {
     "state": "CT",
     "num_grants": 69,
     "grant_value": 11234581,
     "county": "Hartford County"
   },
-  "9005": {
+  "09005": {
     "state": "CT",
     "num_grants": 23,
     "grant_value": 2082009,
     "county": "Litchfield County"
   },
-  "9007": {
+  "09007": {
     "state": "CT",
     "num_grants": 37,
     "grant_value": 4815887,
     "county": "Middlesex County"
   },
-  "9009": {
+  "09009": {
     "state": "CT",
     "num_grants": 58,
     "grant_value": 16042979,
     "county": "New Haven County"
   },
-  "9011": {
+  "09011": {
     "state": "CT",
     "num_grants": 53,
     "grant_value": 10009613,
     "county": "New London County"
   },
-  "9013": {
+  "09013": {
     "state": "CT",
     "num_grants": 27,
     "grant_value": 1640087,
     "county": "Tolland County"
   },
-  "9015": {
+  "09015": {
     "state": "CT",
     "num_grants": 23,
     "grant_value": 2750452,
