@@ -2,7 +2,7 @@
 
 // Path to topoJSON county data and grant data
 mapPath = 'https://cdn.jsdelivr.net/npm/us-atlas@2/us/10m.json';
-grantPath = '../GrantMap/us_grants_by_county.json';
+grantPath = './us_grants_by_county.json';
 
 const format = d3.format("$,");
 const path = d3.geoPath();

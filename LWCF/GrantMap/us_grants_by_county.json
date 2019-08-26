@@ -1,1829 +1,1829 @@
 {
-  "2013": {
+  "02013": {
     "state": "AK",
     "county": "aleutians east",
     "num_grants": 5,
     "grant_value": 123553
   },
-  "2016": {
+  "02016": {
     "state": "AK",
     "county": "aleutians west",
     "num_grants": 1,
     "grant_value": 52405
   },
-  "2020": {
+  "02020": {
     "state": "AK",
     "county": "anchorage",
     "num_grants": 67,
     "grant_value": 9475507
   },
-  "2050": {
+  "02050": {
     "state": "AK",
     "county": "bethel",
     "num_grants": 3,
     "grant_value": 366133
   },
-  "2070": {
+  "02070": {
     "state": "AK",
     "county": "dillingham",
     "num_grants": 2,
     "grant_value": 96120
   },
-  "2090": {
+  "02090": {
     "state": "AK",
     "county": "fairbanks north star",
     "num_grants": 23,
     "grant_value": 2765459
   },
-  "2100": {
+  "02100": {
     "state": "AK",
     "county": "haines",
     "num_grants": 10,
     "grant_value": 2978362
   },
-  "2110": {
+  "02110": {
     "state": "AK",
     "county": "juneau",
     "num_grants": 18,
     "grant_value": 1945648
   },
-  "2122": {
+  "02122": {
     "state": "AK",
     "county": "kenai peninsula",
     "num_grants": 35,
     "grant_value": 3052184
   },
-  "2130": {
+  "02130": {
     "state": "AK",
     "county": "ketchikan gateway",
     "num_grants": 9,
     "grant_value": 809122
   },
-  "2150": {
+  "02150": {
     "state": "AK",
     "county": "kodiak island",
     "num_grants": 10,
     "grant_value": 1052114
   },
-  "2164": {
+  "02164": {
     "state": "AK",
     "county": "lake and peninsula",
     "num_grants": 1,
     "grant_value": 42702
   },
-  "2170": {
+  "02170": {
     "state": "AK",
     "county": "matanuska-susitna",
     "num_grants": 23,
     "grant_value": 3381020
   },
-  "2180": {
+  "02180": {
     "state": "AK",
     "county": "nome",
     "num_grants": 1,
     "grant_value": 154000
   },
-  "2185": {
+  "02185": {
     "state": "AK",
     "county": "north slope",
     "num_grants": 4,
     "grant_value": 480041
   },
-  "2188": {
+  "02188": {
     "state": "AK",
     "county": "northwest arctic",
     "num_grants": 2,
     "grant_value": 68662
   },
-  "2195": {
+  "02195": {
     "state": "AK",
     "county": "petersburg",
     "num_grants": 2,
     "grant_value": 557892
   },
-  "2198": {
+  "02198": {
     "state": "AK",
     "county": "prince of wales-hyder",
     "num_grants": 7,
     "grant_value": 377884
   },
-  "2220": {
+  "02220": {
     "state": "AK",
     "county": "sitka",
     "num_grants": 9,
     "grant_value": 1361882
   },
-  "2230": {
+  "02230": {
     "state": "AK",
     "county": "skagway",
     "num_grants": 2,
     "grant_value": 149179
   },
-  "2240": {
+  "02240": {
     "state": "AK",
     "county": "southeast fairbanks",
     "num_grants": 2,
     "grant_value": 300381
   },
-  "2261": {
+  "02261": {
     "state": "AK",
     "county": "valdez-cordova",
     "num_grants": 14,
     "grant_value": 1115356
   },
-  "2275": {
+  "02275": {
     "state": "AK",
     "county": "wrangell",
     "num_grants": 3,
     "grant_value": 136971
   },
-  "2282": {
+  "02282": {
     "state": "AK",
     "county": "yakutat",
     "num_grants": 1,
     "grant_value": 115180
   },
-  "2290": {
+  "02290": {
     "state": "AK",
     "county": "yukon-koyukuk",
     "num_grants": 4,
     "grant_value": 100368
   },
-  "1001": {
+  "01001": {
     "state": "AL",
     "county": "autauga",
     "num_grants": 12,
     "grant_value": 412868
   },
-  "1003": {
+  "01003": {
     "state": "AL",
     "county": "baldwin",
     "num_grants": 39,
     "grant_value": 4289549
   },
-  "1005": {
+  "01005": {
     "state": "AL",
     "county": "barbour",
     "num_grants": 14,
     "grant_value": 1198387
   },
-  "1007": {
+  "01007": {
     "state": "AL",
     "county": "bibb",
     "num_grants": 7,
     "grant_value": 874819
   },
-  "1009": {
+  "01009": {
     "state": "AL",
     "county": "blount",
     "num_grants": 24,
     "grant_value": 774784
   },
-  "1011": {
+  "01011": {
     "state": "AL",
     "county": "bullock",
     "num_grants": 4,
     "grant_value": 60292
   },
-  "1013": {
+  "01013": {
     "state": "AL",
     "county": "butler",
     "num_grants": 9,
     "grant_value": 590104
   },
-  "1015": {
+  "01015": {
     "state": "AL",
     "county": "calhoun",
     "num_grants": 19,
     "grant_value": 1057140
   },
-  "1017": {
+  "01017": {
     "state": "AL",
     "county": "chambers",
     "num_grants": 2,
     "grant_value": 433777
   },
-  "1019": {
+  "01019": {
     "state": "AL",
     "county": "cherokee",
     "num_grants": 13,
     "grant_value": 895861
   },
-  "1021": {
+  "01021": {
     "state": "AL",
     "county": "chilton",
     "num_grants": 17,
     "grant_value": 546091
   },
-  "1023": {
+  "01023": {
     "state": "AL",
     "county": "choctaw",
     "num_grants": 9,
     "grant_value": 442486
   },
-  "1025": {
+  "01025": {
     "state": "AL",
     "county": "clarke",
     "num_grants": 6,
     "grant_value": 636399
   },
-  "1027": {
+  "01027": {
     "state": "AL",
     "county": "clay",
     "num_grants": 7,
     "grant_value": 183910
   },
-  "1029": {
+  "01029": {
     "state": "AL",
     "county": "cleburne",
     "num_grants": 4,
     "grant_value": 72239
   },
-  "1031": {
+  "01031": {
     "state": "AL",
     "county": "coffee",
     "num_grants": 13,
     "grant_value": 945955
   },
-  "1033": {
+  "01033": {
     "state": "AL",
     "county": "colbert",
     "num_grants": 19,
     "grant_value": 931000
   },
-  "1035": {
+  "01035": {
     "state": "AL",
     "county": "conecuh",
     "num_grants": 1,
     "grant_value": 80000
   },
-  "1039": {
+  "01039": {
     "state": "AL",
     "county": "covington",
     "num_grants": 11,
     "grant_value": 578369
   },
-  "1041": {
+  "01041": {
     "state": "AL",
     "county": "crenshaw",
     "num_grants": 2,
     "grant_value": 147368
   },
-  "1043": {
+  "01043": {
     "state": "AL",
     "county": "cullman",
     "num_grants": 24,
     "grant_value": 1668148
   },
-  "1045": {
+  "01045": {
     "state": "AL",
     "county": "dale",
     "num_grants": 16,
     "grant_value": 1225350
   },
-  "1047": {
+  "01047": {
     "state": "AL",
     "county": "dallas",
     "num_grants": 4,
     "grant_value": 271612
   },
-  "1049": {
+  "01049": {
     "state": "AL",
     "county": "dekalb",
     "num_grants": 32,
     "grant_value": 1910940
   },
-  "1051": {
+  "01051": {
     "state": "AL",
     "county": "elmore",
     "num_grants": 12,
     "grant_value": 262602
   },
-  "1053": {
+  "01053": {
     "state": "AL",
     "county": "escambia",
     "num_grants": 7,
     "grant_value": 289353
   },
-  "1055": {
+  "01055": {
     "state": "AL",
     "county": "etowah",
     "num_grants": 29,
     "grant_value": 1288328
   },
-  "1057": {
+  "01057": {
     "state": "AL",
     "county": "fayette",
     "num_grants": 9,
     "grant_value": 609483
   },
-  "1059": {
+  "01059": {
     "state": "AL",
     "county": "franklin",
     "num_grants": 16,
     "grant_value": 899530
   },
-  "1061": {
+  "01061": {
     "state": "AL",
     "county": "geneva",
     "num_grants": 9,
     "grant_value": 667371
   },
-  "1063": {
+  "01063": {
     "state": "AL",
     "county": "greene",
     "num_grants": 2,
     "grant_value": 113855
   },
-  "1065": {
+  "01065": {
     "state": "AL",
     "county": "hale",
     "num_grants": 3,
     "grant_value": 62519
   },
-  "1067": {
+  "01067": {
     "state": "AL",
     "county": "henry",
     "num_grants": 3,
     "grant_value": 275154
   },
-  "1069": {
+  "01069": {
     "state": "AL",
     "county": "houston",
     "num_grants": 15,
     "grant_value": 1339188
   },
-  "1071": {
+  "01071": {
     "state": "AL",
     "county": "jackson",
     "num_grants": 12,
     "grant_value": 911741
   },
-  "1073": {
+  "01073": {
     "state": "AL",
     "county": "jefferson",
     "num_grants": 62,
     "grant_value": 3964173
   },
-  "1075": {
+  "01075": {
     "state": "AL",
     "county": "lamar",
     "num_grants": 8,
     "grant_value": 440393
   },
-  "1077": {
+  "01077": {
     "state": "AL",
     "county": "lauderdale",
     "num_grants": 24,
     "grant_value": 3339049
   },
-  "1079": {
+  "01079": {
     "state": "AL",
     "county": "lawrence",
     "num_grants": 14,
     "grant_value": 894369
   },
-  "1081": {
+  "01081": {
     "state": "AL",
     "county": "lee",
     "num_grants": 19,
     "grant_value": 1261774
   },
-  "1083": {
+  "01083": {
     "state": "AL",
     "county": "limestone",
     "num_grants": 10,
     "grant_value": 578888
   },
-  "1085": {
+  "01085": {
     "state": "AL",
     "county": "lowndes",
     "num_grants": 3,
     "grant_value": 62222
   },
-  "1087": {
+  "01087": {
     "state": "AL",
     "county": "macon",
     "num_grants": 4,
     "grant_value": 310136
   },
-  "1089": {
+  "01089": {
     "state": "AL",
     "county": "madison",
     "num_grants": 21,
     "grant_value": 2976300
   },
-  "1091": {
+  "01091": {
     "state": "AL",
     "county": "marengo",
     "num_grants": 6,
     "grant_value": 369732
   },
-  "1093": {
+  "01093": {
     "state": "AL",
     "county": "marion",
     "num_grants": 14,
     "grant_value": 664244
   },
-  "1095": {
+  "01095": {
     "state": "AL",
     "county": "marshall",
     "num_grants": 24,
     "grant_value": 3766505
   },
-  "1097": {
+  "01097": {
     "state": "AL",
     "county": "mobile",
     "num_grants": 26,
     "grant_value": 1925552
   },
-  "1099": {
+  "01099": {
     "state": "AL",
     "county": "monroe",
     "num_grants": 5,
     "grant_value": 206689
   },
-  "1101": {
+  "01101": {
     "state": "AL",
     "county": "montgomery",
     "num_grants": 6,
     "grant_value": 1856712
   },
-  "1103": {
+  "01103": {
     "state": "AL",
     "county": "morgan",
     "num_grants": 26,
     "grant_value": 2024285
   },
-  "1105": {
+  "01105": {
     "state": "AL",
     "county": "perry",
     "num_grants": 2,
     "grant_value": 215067
   },
-  "1107": {
+  "01107": {
     "state": "AL",
     "county": "pickens",
     "num_grants": 10,
     "grant_value": 398557
   },
-  "1109": {
+  "01109": {
     "state": "AL",
     "county": "pike",
     "num_grants": 5,
     "grant_value": 937227
   },
-  "1111": {
+  "01111": {
     "state": "AL",
     "county": "randolph",
     "num_grants": 6,
     "grant_value": 263931
   },
-  "1113": {
+  "01113": {
     "state": "AL",
     "county": "russell",
     "num_grants": 8,
     "grant_value": 847480
   },
-  "1117": {
+  "01117": {
     "state": "AL",
     "county": "shelby",
     "num_grants": 11,
     "grant_value": 686749
   },
-  "1115": {
+  "01115": {
     "state": "AL",
     "county": "st. clair",
     "num_grants": 14,
     "grant_value": 564779
   },
-  "1119": {
+  "01119": {
     "state": "AL",
     "county": "sumter",
     "num_grants": 8,
     "grant_value": 258816
   },
-  "1121": {
+  "01121": {
     "state": "AL",
     "county": "talladega",
     "num_grants": 20,
     "grant_value": 1067281
   },
-  "1123": {
+  "01123": {
     "state": "AL",
     "county": "tallapoosa",
     "num_grants": 15,
     "grant_value": 3108247
   },
-  "1125": {
+  "01125": {
     "state": "AL",
     "county": "tuscaloosa",
     "num_grants": 19,
     "grant_value": 1745962
   },
-  "1127": {
+  "01127": {
     "state": "AL",
     "county": "walker",
     "num_grants": 20,
     "grant_value": 595379
   },
-  "1129": {
+  "01129": {
     "state": "AL",
     "county": "washington",
     "num_grants": 4,
     "grant_value": 200839
   },
-  "1131": {
+  "01131": {
     "state": "AL",
     "county": "wilcox",
     "num_grants": 3,
     "grant_value": 156468
   },
-  "1133": {
+  "01133": {
     "state": "AL",
     "county": "winston",
     "num_grants": 8,
     "grant_value": 319615
   },
-  "5001": {
+  "05001": {
     "state": "AR",
     "county": "arkansas",
     "num_grants": 3,
     "grant_value": 96909
   },
-  "5003": {
+  "05003": {
     "state": "AR",
     "county": "ashley",
     "num_grants": 9,
     "grant_value": 492745
   },
-  "5005": {
+  "05005": {
     "state": "AR",
     "county": "baxter",
     "num_grants": 4,
     "grant_value": 129140
   },
-  "5007": {
+  "05007": {
     "state": "AR",
     "county": "benton",
     "num_grants": 19,
     "grant_value": 559334
   },
-  "5009": {
+  "05009": {
     "state": "AR",
     "county": "boone",
     "num_grants": 4,
     "grant_value": 169791
   },
-  "5011": {
+  "05011": {
     "state": "AR",
     "county": "bradley",
     "num_grants": 4,
     "grant_value": 264336
   },
-  "5013": {
+  "05013": {
     "state": "AR",
     "county": "calhoun",
     "num_grants": 1,
     "grant_value": 112685
   },
-  "5015": {
+  "05015": {
     "state": "AR",
     "county": "carroll",
     "num_grants": 1,
     "grant_value": 93543
   },
-  "5017": {
+  "05017": {
     "state": "AR",
     "county": "chicot",
     "num_grants": 5,
     "grant_value": 557363
   },
-  "5019": {
+  "05019": {
     "state": "AR",
     "county": "clark",
     "num_grants": 11,
     "grant_value": 1781669
   },
-  "5021": {
+  "05021": {
     "state": "AR",
     "county": "clay",
     "num_grants": 8,
     "grant_value": 261511
   },
-  "5023": {
+  "05023": {
     "state": "AR",
     "county": "cleburne",
     "num_grants": 7,
     "grant_value": 349078
   },
-  "5025": {
+  "05025": {
     "state": "AR",
     "county": "cleveland",
     "num_grants": 2,
     "grant_value": 83483
   },
-  "5027": {
+  "05027": {
     "state": "AR",
     "county": "columbia",
     "num_grants": 8,
     "grant_value": 388939
   },
-  "5029": {
+  "05029": {
     "state": "AR",
     "county": "conway",
     "num_grants": 9,
     "grant_value": 776485
   },
-  "5031": {
+  "05031": {
     "state": "AR",
     "county": "craighead",
     "num_grants": 16,
     "grant_value": 442688
   },
-  "5033": {
+  "05033": {
     "state": "AR",
     "county": "crawford",
     "num_grants": 30,
     "grant_value": 1241760
   },
-  "5035": {
+  "05035": {
     "state": "AR",
     "county": "crittenden",
     "num_grants": 9,
     "grant_value": 594071
   },
-  "5037": {
+  "05037": {
     "state": "AR",
     "county": "cross",
     "num_grants": 7,
     "grant_value": 251597
   },
-  "5039": {
+  "05039": {
     "state": "AR",
     "county": "dallas",
     "num_grants": 6,
     "grant_value": 94123
   },
-  "5041": {
+  "05041": {
     "state": "AR",
     "county": "desha",
     "num_grants": 9,
     "grant_value": 447698
   },
-  "5043": {
+  "05043": {
     "state": "AR",
     "county": "drew",
     "num_grants": 8,
     "grant_value": 626681
   },
-  "5045": {
+  "05045": {
     "state": "AR",
     "county": "faulkner",
     "num_grants": 15,
     "grant_value": 614977
   },
-  "5047": {
+  "05047": {
     "state": "AR",
     "county": "franklin",
     "num_grants": 8,
     "grant_value": 421705
   },
-  "5049": {
+  "05049": {
     "state": "AR",
     "county": "fulton",
     "num_grants": 9,
     "grant_value": 384584
   },
-  "5051": {
+  "05051": {
     "state": "AR",
     "county": "garland",
     "num_grants": 14,
     "grant_value": 1019574
   },
-  "5053": {
+  "05053": {
     "state": "AR",
     "county": "grant",
     "num_grants": 2,
     "grant_value": 29680
   },
-  "5055": {
+  "05055": {
     "state": "AR",
     "county": "greene",
     "num_grants": 8,
     "grant_value": 387168
   },
-  "5057": {
+  "05057": {
     "state": "AR",
     "county": "hempstead",
     "num_grants": 8,
     "grant_value": 554363
   },
-  "5059": {
+  "05059": {
     "state": "AR",
     "county": "hot spring",
     "num_grants": 7,
     "grant_value": 1189138
   },
-  "5061": {
+  "05061": {
     "state": "AR",
     "county": "howard",
     "num_grants": 11,
     "grant_value": 370008
   },
-  "5063": {
+  "05063": {
     "state": "AR",
     "county": "independence",
     "num_grants": 13,
     "grant_value": 905871
   },
-  "5065": {
+  "05065": {
     "state": "AR",
     "county": "izard",
     "num_grants": 10,
     "grant_value": 191492
   },
-  "5067": {
+  "05067": {
     "state": "AR",
     "county": "jackson",
     "num_grants": 8,
     "grant_value": 506096
   },
-  "5069": {
+  "05069": {
     "state": "AR",
     "county": "jefferson",
     "num_grants": 22,
     "grant_value": 1288201
   },
-  "5071": {
+  "05071": {
     "state": "AR",
     "county": "johnson",
     "num_grants": 4,
     "grant_value": 398661
   },
-  "5073": {
+  "05073": {
     "state": "AR",
     "county": "lafayette",
     "num_grants": 1,
     "grant_value": 8314
   },
-  "5075": {
+  "05075": {
     "state": "AR",
     "county": "lawrence",
     "num_grants": 10,
     "grant_value": 316667
   },
-  "5077": {
+  "05077": {
     "state": "AR",
     "county": "lee",
     "num_grants": 2,
     "grant_value": 124901
   },
-  "5079": {
+  "05079": {
     "state": "AR",
     "county": "lincoln",
     "num_grants": 2,
     "grant_value": 45399
   },
-  "5081": {
+  "05081": {
     "state": "AR",
     "county": "little river",
     "num_grants": 9,
     "grant_value": 356262
   },
-  "5083": {
+  "05083": {
     "state": "AR",
     "county": "logan",
     "num_grants": 9,
     "grant_value": 269236
   },
-  "5085": {
+  "05085": {
     "state": "AR",
     "county": "lonoke",
     "num_grants": 13,
     "grant_value": 692809
   },
-  "5087": {
+  "05087": {
     "state": "AR",
     "county": "madison",
     "num_grants": 8,
     "grant_value": 774692
   },
-  "5089": {
+  "05089": {
     "state": "AR",
     "county": "marion",
     "num_grants": 5,
     "grant_value": 319444
   },
-  "5091": {
+  "05091": {
     "state": "AR",
     "county": "miller",
     "num_grants": 11,
     "grant_value": 1399933
   },
-  "5093": {
+  "05093": {
     "state": "AR",
     "county": "mississippi",
     "num_grants": 20,
     "grant_value": 1086601
   },
-  "5095": {
+  "05095": {
     "state": "AR",
     "county": "monroe",
     "num_grants": 6,
     "grant_value": 68285
   },
-  "5097": {
+  "05097": {
     "state": "AR",
     "county": "montgomery",
     "num_grants": 1,
     "grant_value": 14829
   },
-  "5099": {
+  "05099": {
     "state": "AR",
     "county": "nevada",
     "num_grants": 2,
     "grant_value": 61133
   },
-  "5101": {
+  "05101": {
     "state": "AR",
     "county": "newton",
     "num_grants": 1,
     "grant_value": 15068
   },
-  "5103": {
+  "05103": {
     "state": "AR",
     "county": "ouachita",
     "num_grants": 6,
     "grant_value": 402540
   },
-  "5105": {
+  "05105": {
     "state": "AR",
     "county": "perry",
     "num_grants": 2,
     "grant_value": 40250
   },
-  "5107": {
+  "05107": {
     "state": "AR",
     "county": "phillips",
     "num_grants": 8,
     "grant_value": 550481
   },
-  "5109": {
+  "05109": {
     "state": "AR",
     "county": "pike",
     "num_grants": 5,
     "grant_value": 1432392
   },
-  "5111": {
+  "05111": {
     "state": "AR",
     "county": "poinsett",
     "num_grants": 8,
     "grant_value": 301236
   },
-  "5113": {
+  "05113": {
     "state": "AR",
     "county": "polk",
     "num_grants": 9,
     "grant_value": 775167
   },
-  "5115": {
+  "05115": {
     "state": "AR",
     "county": "pope",
     "num_grants": 21,
     "grant_value": 846166
   },
-  "5117": {
+  "05117": {
     "state": "AR",
     "county": "prairie",
     "num_grants": 4,
     "grant_value": 27564
   },
-  "5119": {
+  "05119": {
     "state": "AR",
     "county": "pulaski",
     "num_grants": 47,
     "grant_value": 6152616
   },
-  "5121": {
+  "05121": {
     "state": "AR",
     "county": "randolph",
     "num_grants": 10,
     "grant_value": 258736
   },
-  "5125": {
+  "05125": {
     "state": "AR",
     "county": "saline",
     "num_grants": 8,
     "grant_value": 670780
   },
-  "5127": {
+  "05127": {
     "state": "AR",
     "county": "scott",
     "num_grants": 3,
     "grant_value": 128649
   },
-  "5129": {
+  "05129": {
     "state": "AR",
     "county": "searcy",
     "num_grants": 1,
     "grant_value": 102721
   },
-  "5131": {
+  "05131": {
     "state": "AR",
     "county": "sebastian",
     "num_grants": 20,
     "grant_value": 1800694
   },
-  "5133": {
+  "05133": {
     "state": "AR",
     "county": "sevier",
     "num_grants": 10,
     "grant_value": 322366
   },
-  "5135": {
+  "05135": {
     "state": "AR",
     "county": "sharp",
     "num_grants": 7,
     "grant_value": 205916
   },
-  "5123": {
+  "05123": {
     "state": "AR",
     "county": "st. francis",
     "num_grants": 2,
     "grant_value": 31101
   },
-  "5137": {
+  "05137": {
     "state": "AR",
     "county": "stone",
     "num_grants": 6,
     "grant_value": 176638
   },
-  "5139": {
+  "05139": {
     "state": "AR",
     "county": "union",
     "num_grants": 8,
     "grant_value": 611909
   },
-  "5141": {
+  "05141": {
     "state": "AR",
     "county": "van buren",
     "num_grants": 9,
     "grant_value": 349215
   },
-  "5143": {
+  "05143": {
     "state": "AR",
     "county": "washington",
     "num_grants": 21,
     "grant_value": 1605233
   },
-  "5145": {
+  "05145": {
     "state": "AR",
     "county": "white",
     "num_grants": 26,
     "grant_value": 971443
   },
-  "5147": {
+  "05147": {
     "state": "AR",
     "county": "woodruff",
     "num_grants": 2,
     "grant_value": 265115
   },
-  "5149": {
+  "05149": {
     "state": "AR",
     "county": "yell",
     "num_grants": 15,
     "grant_value": 481265
   },
-  "4001": {
+  "04001": {
     "state": "AZ",
     "county": "apache",
     "num_grants": 19,
     "grant_value": 808708
   },
-  "4003": {
+  "04003": {
     "state": "AZ",
     "county": "cochise",
     "num_grants": 29,
     "grant_value": 1183153
   },
-  "4005": {
+  "04005": {
     "state": "AZ",
     "county": "coconino",
     "num_grants": 31,
     "grant_value": 1351180
   },
-  "4007": {
+  "04007": {
     "state": "AZ",
     "county": "gila",
     "num_grants": 11,
     "grant_value": 1155985
   },
-  "4009": {
+  "04009": {
     "state": "AZ",
     "county": "graham",
     "num_grants": 10,
     "grant_value": 575906
   },
-  "4011": {
+  "04011": {
     "state": "AZ",
     "county": "greenlee",
     "num_grants": 2,
     "grant_value": 95000
   },
-  "4012": {
+  "04012": {
     "state": "AZ",
     "county": "la paz",
     "num_grants": 12,
     "grant_value": 1032104
   },
-  "4013": {
+  "04013": {
     "state": "AZ",
     "county": "maricopa",
     "num_grants": 291,
     "grant_value": 28833549
   },
-  "4015": {
+  "04015": {
     "state": "AZ",
     "county": "mohave",
     "num_grants": 12,
     "grant_value": 916176
   },
-  "4017": {
+  "04017": {
     "state": "AZ",
     "county": "navajo",
     "num_grants": 30,
     "grant_value": 2128925
   },
-  "4019": {
+  "04019": {
     "state": "AZ",
     "county": "pima",
     "num_grants": 150,
     "grant_value": 10007203
   },
-  "4021": {
+  "04021": {
     "state": "AZ",
     "county": "pinal",
     "num_grants": 43,
     "grant_value": 3961239
   },
-  "4023": {
+  "04023": {
     "state": "AZ",
     "county": "santa cruz",
     "num_grants": 10,
     "grant_value": 1265377
   },
-  "4025": {
+  "04025": {
     "state": "AZ",
     "county": "yavapai",
     "num_grants": 38,
     "grant_value": 3344233
   },
-  "4027": {
+  "04027": {
     "state": "AZ",
     "county": "yuma",
     "num_grants": 27,
     "grant_value": 1108603
   },
-  "6001": {
+  "06001": {
     "state": "CA",
     "county": "alameda",
     "num_grants": 74,
     "grant_value": 12058604
   },
-  "6003": {
+  "06003": {
     "state": "CA",
     "county": "alpine",
     "num_grants": 2,
     "grant_value": 89148
   },
-  "6005": {
+  "06005": {
     "state": "CA",
     "county": "amador",
     "num_grants": 5,
     "grant_value": 123740
   },
-  "6007": {
+  "06007": {
     "state": "CA",
     "county": "butte",
     "num_grants": 18,
     "grant_value": 1801118
   },
-  "6009": {
+  "06009": {
     "state": "CA",
     "county": "calaveras",
     "num_grants": 1,
     "grant_value": 228508
   },
-  "6011": {
+  "06011": {
     "state": "CA",
     "county": "colusa",
     "num_grants": 1,
     "grant_value": 27739
   },
-  "6013": {
+  "06013": {
     "state": "CA",
     "county": "contra costa",
     "num_grants": 44,
     "grant_value": 8764506
   },
-  "6015": {
+  "06015": {
     "state": "CA",
     "county": "del norte",
     "num_grants": 9,
     "grant_value": 4474365
   },
-  "6017": {
+  "06017": {
     "state": "CA",
     "county": "el dorado",
     "num_grants": 9,
     "grant_value": 3308485
   },
-  "6019": {
+  "06019": {
     "state": "CA",
     "county": "fresno",
     "num_grants": 56,
     "grant_value": 5510009
   },
-  "6021": {
+  "06021": {
     "state": "CA",
     "county": "glenn",
     "num_grants": 8,
     "grant_value": 448349
   },
-  "6023": {
+  "06023": {
     "state": "CA",
     "county": "humboldt",
     "num_grants": 30,
     "grant_value": 7197132
   },
-  "6025": {
+  "06025": {
     "state": "CA",
     "county": "imperial",
     "num_grants": 11,
     "grant_value": 2174476
   },
-  "6027": {
+  "06027": {
     "state": "CA",
     "county": "inyo",
     "num_grants": 9,
     "grant_value": 315269
   },
-  "6029": {
+  "06029": {
     "state": "CA",
     "county": "kern",
     "num_grants": 36,
     "grant_value": 3182790
   },
-  "6031": {
+  "06031": {
     "state": "CA",
     "county": "kings",
     "num_grants": 6,
     "grant_value": 377142
   },
-  "6033": {
+  "06033": {
     "state": "CA",
     "county": "lake",
     "num_grants": 3,
     "grant_value": 468638
   },
-  "6035": {
+  "06035": {
     "state": "CA",
     "county": "lassen",
     "num_grants": 5,
     "grant_value": 397633
   },
-  "6037": {
+  "06037": {
     "state": "CA",
     "county": "los angeles",
     "num_grants": 220,
     "grant_value": 58641286
   },
-  "6039": {
+  "06039": {
     "state": "CA",
     "county": "madera",
     "num_grants": 6,
     "grant_value": 163180
   },
-  "6041": {
+  "06041": {
     "state": "CA",
     "county": "marin",
     "num_grants": 26,
     "grant_value": 4568372
   },
-  "6045": {
+  "06045": {
     "state": "CA",
     "county": "mendocino",
     "num_grants": 18,
     "grant_value": 1040520
   },
-  "6047": {
+  "06047": {
     "state": "CA",
     "county": "merced",
     "num_grants": 9,
     "grant_value": 1453254
   },
-  "6049": {
+  "06049": {
     "state": "CA",
     "county": "modoc",
     "num_grants": 2,
     "grant_value": 66775
   },
-  "6051": {
+  "06051": {
     "state": "CA",
     "county": "mono",
     "num_grants": 5,
     "grant_value": 1971924
   },
-  "6053": {
+  "06053": {
     "state": "CA",
     "county": "monterey",
     "num_grants": 28,
     "grant_value": 6970831
   },
-  "6055": {
+  "06055": {
     "state": "CA",
     "county": "napa",
     "num_grants": 10,
     "grant_value": 3250669
   },
-  "6057": {
+  "06057": {
     "state": "CA",
     "county": "nevada",
     "num_grants": 5,
     "grant_value": 959655
   },
-  "6059": {
+  "06059": {
     "state": "CA",
     "county": "orange",
     "num_grants": 70,
     "grant_value": 19213116
   },
-  "6061": {
+  "06061": {
     "state": "CA",
     "county": "placer",
     "num_grants": 20,
     "grant_value": 1757730
   },
-  "6063": {
+  "06063": {
     "state": "CA",
     "county": "plumas",
     "num_grants": 2,
     "grant_value": 409397
   },
-  "6065": {
+  "06065": {
     "state": "CA",
     "county": "riverside",
     "num_grants": 59,
     "grant_value": 11758271
   },
-  "6067": {
+  "06067": {
     "state": "CA",
     "county": "sacramento",
     "num_grants": 87,
     "grant_value": 6492719
   },
-  "6069": {
+  "06069": {
     "state": "CA",
     "county": "san benito",
     "num_grants": 1,
     "grant_value": 38138
   },
-  "6071": {
+  "06071": {
     "state": "CA",
     "county": "san bernardino",
     "num_grants": 38,
     "grant_value": 9046826
   },
-  "6073": {
+  "06073": {
     "state": "CA",
     "county": "san diego",
     "num_grants": 97,
     "grant_value": 17514132
   },
-  "6075": {
+  "06075": {
     "state": "CA",
     "county": "san francisco",
     "num_grants": 26,
     "grant_value": 4876529
   },
-  "6077": {
+  "06077": {
     "state": "CA",
     "county": "san joaquin",
     "num_grants": 35,
     "grant_value": 3141206
   },
-  "6079": {
+  "06079": {
     "state": "CA",
     "county": "san luis obispo",
     "num_grants": 27,
     "grant_value": 4677171
   },
-  "6081": {
+  "06081": {
     "state": "CA",
     "county": "san mateo",
     "num_grants": 40,
     "grant_value": 12246074
   },
-  "6083": {
+  "06083": {
     "state": "CA",
     "county": "santa barbara",
     "num_grants": 26,
     "grant_value": 3473436
   },
-  "6085": {
+  "06085": {
     "state": "CA",
     "county": "santa clara",
     "num_grants": 42,
     "grant_value": 9220898
   },
-  "6087": {
+  "06087": {
     "state": "CA",
     "county": "santa cruz",
     "num_grants": 38,
     "grant_value": 5815354
   },
-  "6089": {
+  "06089": {
     "state": "CA",
     "county": "shasta",
     "num_grants": 14,
     "grant_value": 527923
   },
-  "6091": {
+  "06091": {
     "state": "CA",
     "county": "sierra",
     "num_grants": 2,
     "grant_value": 852542
   },
-  "6093": {
+  "06093": {
     "state": "CA",
     "county": "siskiyou",
     "num_grants": 10,
     "grant_value": 2329262
   },
-  "6095": {
+  "06095": {
     "state": "CA",
     "county": "solano",
     "num_grants": 19,
     "grant_value": 3603198
   },
-  "6097": {
+  "06097": {
     "state": "CA",
     "county": "sonoma",
     "num_grants": 25,
     "grant_value": 6561120
   },
-  "6099": {
+  "06099": {
     "state": "CA",
     "county": "stanislaus",
     "num_grants": 22,
     "grant_value": 1142883
   },
-  "6101": {
+  "06101": {
     "state": "CA",
     "county": "sutter",
     "num_grants": 5,
     "grant_value": 414609
   },
-  "6103": {
+  "06103": {
     "state": "CA",
     "county": "tehama",
     "num_grants": 5,
     "grant_value": 150387
   },
-  "6105": {
+  "06105": {
     "state": "CA",
     "county": "trinity",
     "num_grants": 1,
     "grant_value": 29541
   },
-  "6107": {
+  "06107": {
     "state": "CA",
     "county": "tulare",
     "num_grants": 20,
     "grant_value": 997841
   },
-  "6109": {
+  "06109": {
     "state": "CA",
     "county": "tuolumne",
     "num_grants": 5,
     "grant_value": 102327
   },
-  "6111": {
+  "06111": {
     "state": "CA",
     "county": "ventura",
     "num_grants": 50,
     "grant_value": 11793589
   },
-  "6113": {
+  "06113": {
     "state": "CA",
     "county": "yolo",
     "num_grants": 16,
     "grant_value": 1415145
   },
-  "6115": {
+  "06115": {
     "state": "CA",
     "county": "yuba",
     "num_grants": 4,
     "grant_value": 263130
   },
-  "8001": {
+  "08001": {
     "state": "CO",
     "county": "adams",
     "num_grants": 63,
     "grant_value": 2766843
   },
-  "8003": {
+  "08003": {
     "state": "CO",
     "county": "alamosa",
     "num_grants": 7,
     "grant_value": 243636
   },
-  "8005": {
+  "08005": {
     "state": "CO",
     "county": "arapahoe",
     "num_grants": 82,
     "grant_value": 4560308
   },
-  "8007": {
+  "08007": {
     "state": "CO",
     "county": "archuleta",
     "num_grants": 5,
     "grant_value": 96395
   },
-  "8009": {
+  "08009": {
     "state": "CO",
     "county": "baca",
     "num_grants": 3,
     "grant_value": 628196
   },
-  "8011": {
+  "08011": {
     "state": "CO",
     "county": "bent",
     "num_grants": 2,
     "grant_value": 34128
   },
-  "8013": {
+  "08013": {
     "state": "CO",
     "county": "boulder",
     "num_grants": 58,
     "grant_value": 3265386
   },
-  "8015": {
+  "08015": {
     "state": "CO",
     "county": "chaffee",
     "num_grants": 7,
     "grant_value": 296809
   },
-  "8017": {
+  "08017": {
     "state": "CO",
     "county": "cheyenne",
     "num_grants": 1,
     "grant_value": 8587
   },
-  "8019": {
+  "08019": {
     "state": "CO",
     "county": "clear creek",
     "num_grants": 4,
     "grant_value": 217635
   },
-  "8021": {
+  "08021": {
     "state": "CO",
     "county": "conejos",
     "num_grants": 2,
     "grant_value": 32090
   },
-  "8025": {
+  "08025": {
     "state": "CO",
     "county": "crowley",
     "num_grants": 2,
     "grant_value": 7203
   },
-  "8027": {
+  "08027": {
     "state": "CO",
     "county": "custer",
     "num_grants": 3,
     "grant_value": 3053
   },
-  "8029": {
+  "08029": {
     "state": "CO",
     "county": "delta",
     "num_grants": 9,
     "grant_value": 307999
   },
-  "8031": {
+  "08031": {
     "state": "CO",
     "county": "denver",
     "num_grants": 75,
     "grant_value": 3796548
   },
-  "8035": {
+  "08035": {
     "state": "CO",
     "county": "douglas",
     "num_grants": 21,
     "grant_value": 4023708
   },
-  "8037": {
+  "08037": {
     "state": "CO",
     "county": "eagle",
     "num_grants": 10,
     "grant_value": 663145
   },
-  "8041": {
+  "08041": {
     "state": "CO",
     "county": "el paso",
     "num_grants": 62,
     "grant_value": 5425283
   },
-  "8039": {
+  "08039": {
     "state": "CO",
     "county": "elbert",
     "num_grants": 1,
     "grant_value": 22112
   },
-  "8043": {
+  "08043": {
     "state": "CO",
     "county": "fremont",
     "num_grants": 22,
     "grant_value": 332813
   },
-  "8045": {
+  "08045": {
     "state": "CO",
     "county": "garfield",
     "num_grants": 14,
     "grant_value": 471333
   },
-  "8047": {
+  "08047": {
     "state": "CO",
     "county": "gilpin",
     "num_grants": 4,
     "grant_value": 127338
   },
-  "8049": {
+  "08049": {
     "state": "CO",
     "county": "grand",
     "num_grants": 8,
     "grant_value": 159271
   },
-  "8051": {
+  "08051": {
     "state": "CO",
     "county": "gunnison",
     "num_grants": 7,
     "grant_value": 205806
   },
-  "8055": {
+  "08055": {
     "state": "CO",
     "county": "huerfano",
     "num_grants": 10,
     "grant_value": 258271
   },
-  "8057": {
+  "08057": {
     "state": "CO",
     "county": "jackson",
     "num_grants": 4,
     "grant_value": 57883
   },
-  "8059": {
+  "08059": {
     "state": "CO",
     "county": "jefferson",
     "num_grants": 80,
     "grant_value": 4680427
   },
-  "8061": {
+  "08061": {
     "state": "CO",
     "county": "kiowa",
     "num_grants": 1,
     "grant_value": 60713
   },
-  "8063": {
+  "08063": {
     "state": "CO",
     "county": "kit carson",
     "num_grants": 7,
     "grant_value": 113844
   },
-  "8067": {
+  "08067": {
     "state": "CO",
     "county": "la plata",
     "num_grants": 14,
     "grant_value": 1279008
   },
-  "8065": {
+  "08065": {
     "state": "CO",
     "county": "lake",
     "num_grants": 3,
     "grant_value": 89690
   },
-  "8069": {
+  "08069": {
     "state": "CO",
     "county": "larimer",
     "num_grants": 62,
     "grant_value": 6227793
   },
-  "8071": {
+  "08071": {
     "state": "CO",
     "county": "las animas",
     "num_grants": 4,
     "grant_value": 271095
   },
-  "8073": {
+  "08073": {
     "state": "CO",
     "county": "lincoln",
     "num_grants": 2,
     "grant_value": 63419
   },
-  "8075": {
+  "08075": {
     "state": "CO",
     "county": "logan",
     "num_grants": 3,
     "grant_value": 38103
   },
-  "8077": {
+  "08077": {
     "state": "CO",
     "county": "mesa",
     "num_grants": 16,
     "grant_value": 555824
   },
-  "8079": {
+  "08079": {
     "state": "CO",
     "county": "mineral",
     "num_grants": 1,
     "grant_value": 22720
   },
-  "8081": {
+  "08081": {
     "state": "CO",
     "county": "moffat",
     "num_grants": 14,
     "grant_value": 316614
   },
-  "8083": {
+  "08083": {
     "state": "CO",
     "county": "montezuma",
     "num_grants": 9,
     "grant_value": 150997
   },
-  "8085": {
+  "08085": {
     "state": "CO",
     "county": "montrose",
     "num_grants": 12,
     "grant_value": 428595
   },
-  "8087": {
+  "08087": {
     "state": "CO",
     "county": "morgan",
     "num_grants": 5,
     "grant_value": 255276
   },
-  "8089": {
+  "08089": {
     "state": "CO",
     "county": "otero",
     "num_grants": 13,
     "grant_value": 368754
   },
-  "8091": {
+  "08091": {
     "state": "CO",
     "county": "ouray",
     "num_grants": 2,
     "grant_value": 34682
   },
-  "8093": {
+  "08093": {
     "state": "CO",
     "county": "park",
     "num_grants": 7,
     "grant_value": 220523
   },
-  "8095": {
+  "08095": {
     "state": "CO",
     "county": "phillips",
     "num_grants": 1,
     "grant_value": 14000
   },
-  "8097": {
+  "08097": {
     "state": "CO",
     "county": "pitkin",
     "num_grants": 7,
     "grant_value": 448911
   },
-  "8099": {
+  "08099": {
     "state": "CO",
     "county": "prowers",
     "num_grants": 2,
     "grant_value": 6920
   },
-  "8101": {
+  "08101": {
     "state": "CO",
     "county": "pueblo",
     "num_grants": 50,
     "grant_value": 1382249
   },
-  "8103": {
+  "08103": {
     "state": "CO",
     "county": "rio blanco",
     "num_grants": 9,
     "grant_value": 175679
   },
-  "8105": {
+  "08105": {
     "state": "CO",
     "county": "rio grande",
     "num_grants": 7,
     "grant_value": 45060
   },
-  "8107": {
+  "08107": {
     "state": "CO",
     "county": "routt",
     "num_grants": 18,
     "grant_value": 1519579
   },
-  "8109": {
+  "08109": {
     "state": "CO",
     "county": "saguache",
     "num_grants": 6,
     "grant_value": 52489
   },
-  "8111": {
+  "08111": {
     "state": "CO",
     "county": "san juan",
     "num_grants": 1,
     "grant_value": 7266
   },
-  "8113": {
+  "08113": {
     "state": "CO",
     "county": "san miguel",
     "num_grants": 4,
     "grant_value": 156090
   },
-  "8117": {
+  "08117": {
     "state": "CO",
     "county": "summit",
     "num_grants": 16,
     "grant_value": 827241
   },
-  "8119": {
+  "08119": {
     "state": "CO",
     "county": "teller",
     "num_grants": 13,
     "grant_value": 4746608
   },
-  "8121": {
+  "08121": {
     "state": "CO",
     "county": "washington",
     "num_grants": 5,
     "grant_value": 80331
   },
-  "8123": {
+  "08123": {
     "state": "CO",
     "county": "weld",
     "num_grants": 32,
     "grant_value": 1606433
   },
-  "8125": {
+  "08125": {
     "state": "CO",
     "county": "yuma",
     "num_grants": 9,
     "grant_value": 2011948
   },
-  "9001": {
+  "09001": {
     "state": "CT",
     "county": "fairfield",
     "num_grants": 65,
     "grant_value": 7745008
   },
-  "9003": {
+  "09003": {
     "state": "CT",
     "county": "hartford",
     "num_grants": 69,
     "grant_value": 11234581
   },
-  "9005": {
+  "09005": {
     "state": "CT",
     "county": "litchfield",
     "num_grants": 23,
     "grant_value": 2082009
   },
-  "9007": {
+  "09007": {
     "state": "CT",
     "county": "middlesex",
     "num_grants": 37,
     "grant_value": 4815887
   },
-  "9009": {
+  "09009": {
     "state": "CT",
     "county": "new haven",
     "num_grants": 58,
     "grant_value": 16042979
   },
-  "9011": {
+  "09011": {
     "state": "CT",
     "county": "new london",
     "num_grants": 53,
     "grant_value": 10009613
   },
-  "9013": {
+  "09013": {
     "state": "CT",
     "county": "tolland",
     "num_grants": 27,
     "grant_value": 1640087
   },
-  "9015": {
+  "09015": {
     "state": "CT",
     "county": "windham",
     "num_grants": 23,
