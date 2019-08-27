@@ -1,0 +1,5 @@
+.tick text {
+    text-anchor: start;
+    font-size: 0.75em;
+    transform: rotate(45deg);
+}

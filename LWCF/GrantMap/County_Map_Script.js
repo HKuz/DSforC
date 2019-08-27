@@ -1,8 +1,8 @@
 // LWCF Grant Amounts by County Map
 
 // Path to topoJSON county data and grant data
-mapPath = 'https://cdn.jsdelivr.net/npm/us-atlas@2/us/10m.json';
-grantPath = './us_grants_by_county.json';
+const mapPath = 'https://cdn.jsdelivr.net/npm/us-atlas@2/us/10m.json';
+const grantPath = './us_grants_by_county.json';
 
 const format = d3.format("$,");
 const path = d3.geoPath();
@@ -10,25 +10,26 @@ const path = d3.geoPath();
 // Create a scale to map total grant value of a county to a color
 const color = d3.scaleThreshold()
     .domain([
-      1000,
-      10000,
       100000,
-      500000,
-      750000,
+      200000,
+      300000,
+      400000,
+      700000,
       1000000,
-      10000000,
-      20000000])
+      5000000,
+      10000000])
     .range(d3.schemeGreens[9]);
 
+// Format grant thresholds for the legend
 const formatDict = {
-  1000: "$1K",
-  10000: "$10K",
   100000: "$100K",
-  500000: "$500K",
-  750000: "$750K",
+  200000: "$200K",
+  300000: "$300K",
+  400000: "$400K",
+  700000: "$700K",
   1000000: "$1M",
-  10000000: "$10M",
-  20000000: "$20M"
+  5000000: "$5M",
+  10000000: "$10M"
 };
 
 legend = g => {
@@ -54,7 +55,7 @@ legend = g => {
       .attr("fill", "currentColor")
       .attr("text-anchor", "start")
       .attr("font-weight", "bold")
-      .text("Total Value of LWCF Grants ($)");
+      .text("Total Value of LWCF Grants (US$)");
 
   // Draw ticks and labels
   g.call(d3.axisBottom(x)
