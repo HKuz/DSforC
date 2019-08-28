@@ -7,6 +7,18 @@ const grantPath = './us_grants_by_county.json';
 const format = d3.format("$,");
 const path = d3.geoPath();
 
+const svgWidth = 960;
+const svgHeight = 600;
+
+const svg = d3.select("#map")
+  .append("svg")
+  .attr("viewBox", "0 0 " + svgWidth + " " + svgHeight)
+  .style("width", "100%")
+  .style("height", "auto");
+
+// Create a group to hold counties and states (will pan and zoom this group)
+const g = svg.append("g");
+
 // Create a scale to map total grant value of a county to a color
 const color = d3.scaleThreshold()
     .domain([
@@ -67,13 +79,7 @@ legend = g => {
       .remove();
 }
 
-const svg = d3.select("#map")
-  .append("svg")
-  .attr("viewBox", "0 0 960 600")
-  .style("width", "100%")
-  .style("height", "auto");
-
-// Add group to hold the legend
+// Add group to hold the legend and call legend function
 svg.append("g")
   .attr("transform", "translate(600,40)")
   .call(legend);
@@ -94,8 +100,7 @@ Promise.all([getMapData, getGrantData]).then(function(values) {
   const st = new Map(us.objects.states.geometries.map(d => [d.id, d.properties]));
 
   // Create county map
-  svg.append("g")
-    .selectAll("path")
+  g.selectAll("path")
     .data(counties)
     .join("path")
       .attr("fill", d => {
@@ -116,11 +121,24 @@ Promise.all([getMapData, getGrantData]).then(function(values) {
       });
 
   // Add state outlines
-  svg.append("path")
+  g.append("path")
     .datum(states)
     .attr("fill", "none")
     .attr("stroke", "white")
     .attr("stroke-linejoin", "round")
     .attr("d", path);
+
+  // Add pan and zoom behavior
+  const pad = 140;
+
+  svg.call(d3.zoom()
+    .scaleExtent([1, 4])
+    .translateExtent([[0, -pad], [svgWidth, svgHeight + pad]])
+    .on("zoom", zoomed)
+  );
+
+  function zoomed() {
+    g.attr("transform", d3.event.transform);
+  }
 
 });
