@@ -1,17 +1,17 @@
 # Land and Water Conservation Fund (LWCF)
 
-The Land and Water Conservation Fund (LWCF) is a federal program that was established in the 1960's to help protect natural areas, water resources, and important cultural heritage sites in the United States. It provides funds and matching grants for local, state, or the federal government to provide more outdoor recreation opportunities as well as to acquire land and water (or easements on land and water) to protect these places from development.
+The Land and Water Conservation Fund (LWCF) is a federal program established in the 1960's to create outdoor recreation opportunities, as well as to help protect natural areas, water resources, and important cultural heritage sites in the United States. Funds are available as grants for state and local projects, or to acquire land and water (or easements on land and water) at the federal level to protect these places from development.
 
-The LWCF costs taxpayers nothing. It's primarily funded by the fees going to the Bureau of Ocean Energy Management, Regulation and Enforcement that are paid by companies to drill offshore for oil and gas. It then uses this money to fund conservation projects, protect land, and create recreation opportunites for everyone. There's LWCF-protected land and water in all 50 states - everywhere from national parks, national forests, and wildlife refuges, to local playgrounds and soccer fields.
+One huge benefit of the LWCF is that it costs taxpayers nothing. It's primarily funded with the fees from offshore oil and gas drilling leases, which are collected by the Bureau of Ocean Energy Management, Regulation and Enforcement. The LWCF then distributes this money to fund community conservation projects, protect land, and create recreation opportunites for everyone. There's LWCF-protected land and water in all 50 states - everywhere from national parks to local playgrounds and soccer fields.
 
-Protecting and preserving recreational resources has a direct benefit to local economies as well. As noted by National Park Service Director Jonathan Jarvis in the LWCF's 2012 Annual Report (the most recent one available):
+Protecting and preserving recreational resources has a direct benefit to local economies as well. As noted by National Park Service Director Jonathan Jarvis in the most recent LWCF Annual Report (2012):
 
 > Direct economic benefits include supporting a variety of local businesses through spending by park visitors, creating jobs and income for residents, and enhancing property values of nearby homes; all of which generate revenue for the communities near the parks. Indirectly, parks can help lower health care costs and the expense of constructing public infrastructure like stormwater management systems. Even better, the land protection provisions of the LWCF ensure that assisted parks will provide these benefits to future generations of Americans.
 
 <!--
 > More American jobs depend on trail sports (768,000) than there are lawyers (728,200) in the U.S. ([LWCF 2012 Annual Report](https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf))
 -->
-The LWCF was permanently re-authorized when S.47 was signed into law in March 2019. However, while Congress is supposed to fully fund the LWCF with $900 million of the offshore drilling royalties every year, this has only happened twice in LWCF's history. In order for the program to continue maintaining, enhancing, and creating public lands, or providing outdoor recreation opportunities for nearly every county in the United States, it needs proper funding. To put this in context, as of 2012, there were an estimated $18 billion of unmet needs for LWCF projects.
+The LWCF was permanently re-authorized when S.47 was signed into law in March 2019. However, the program will while Congress is supposed to fully fund the LWCF with $900 million of the offshore drilling royalties every year, this has only happened twice in LWCF's history. In order for the program to continue maintaining, enhancing, and creating public lands, or providing outdoor recreation opportunities for nearly every county in the United States, it needs proper funding. To put this in context, as of 2012, there were an estimated $18 billion of unmet needs for LWCF projects.
 
 ## LWCF Projects in New England
 
