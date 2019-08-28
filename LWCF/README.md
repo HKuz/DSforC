@@ -11,7 +11,7 @@ Protecting and preserving recreational resources has a direct benefit to local e
 <!--
 > More American jobs depend on trail sports (768,000) than there are lawyers (728,200) in the U.S. ([LWCF 2012 Annual Report](https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf))
 -->
-The LWCF was permanently re-authorized when S.47 was signed into law in March 2019. However, the program will while Congress is supposed to fully fund the LWCF with $900 million of the offshore drilling royalties every year, this has only happened twice in LWCF's history. In order for the program to continue maintaining, enhancing, and creating public lands, or providing outdoor recreation opportunities for nearly every county in the United States, it needs proper funding. To put this in context, as of 2012, there were an estimated $18 billion of unmet needs for LWCF projects.
+The LWCF was permanently re-authorized when S.47 was signed into law in March 2019. However, like any program, it will cease to have any benefit if it isn't properly funded. Congress has the ability to fully fund the LWCF with $900 million of the offshore drilling royalties every year, but this has only happened twice in LWCF's history. This will allow the LWCF to continue maintaining, enhancing, and creating public lands, or providing outdoor recreation opportunities for nearly every county in the US. To put this in context, as of 2012, there were an estimated $18 billion of unmet needs for LWCF projects.
 
 ## LWCF Projects in New England
 
