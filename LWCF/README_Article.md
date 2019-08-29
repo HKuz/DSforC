@@ -10,7 +10,7 @@ Protecting and preserving recreational resources has a direct benefit to local e
 
 > Direct economic benefits include supporting a variety of local businesses through spending by park visitors, creating jobs and income for residents, and enhancing property values of nearby homes; all of which generate revenue for the communities near the parks. Indirectly, parks can help lower health care costs and the expense of constructing public infrastructure like stormwater management systems. Even better, the land protection provisions of the LWCF ensure that assisted parks will provide these benefits to future generations of Americans.
 
-There's LWCF-protected land and water in all 50 states and almost every county in the US. The map below shows the total value of State and local grant money funding projects by county in communities across the US. The map uses data compiled by <a href="http://www.invw.org/2012/06/11/lwcf-grants-database-1283/" target="_blank">Investigate West</a> and covers the period from 1965 through 2011. Note that it does not include any Federal land acquisitions, State grants that spanned multiple counties, or grants to fund the State planning process.
+There's LWCF-protected land and water in all 50 states and almost every county in the US. The map below shows the total value of State and Local Assistance grants by county in communities across the US. The map uses data compiled by <a href="http://www.invw.org/2012/06/11/lwcf-grants-database-1283/" target="_blank">Investigate West</a> and covers the period from 1965 through 2011. Note that it does not include any Federal land acquisitions, State grants that spanned multiple counties, or grants to fund the State planning process.
 
 ADD MAP SCRIPT
 
@@ -18,68 +18,27 @@ In a recent bipartisan win, the LWCF was permanently re-authorized in March 2019
 
 According to the <a href="https://www.nps.gov/subjects/lwcf/land-acquisition-status.htm" target="_blank">National Park Service's website</a>, LWCF funds have purchased over 2.2 million acres at the Federal level since its inception, but as of 2014 there remains 2.6 million privately-owned acres within NPS land boundaries. Of those, 1.6 million are identified for acquisition, but "less than 1 percent of that is acquired annually due to funding constraints."
 
-This will allow the LWCF to continue maintaining, enhancing, and creating public lands, or providing outdoor recreation opportunities for nearly every county in the US. 
+Make sure to contact your duly-elected officials and urge them to support fully-funding the LWCF. This will allow the LWCF to continue maintaining, enhancing, and creating public lands, or providing outdoor recreation opportunities for all Americans. 
 
 ## LWCF Projects in New England
 
-Below are some examples of LWCF projects specific to the New England area - text provided by nps.gov write-ups (see links).
+New England is no stranger to the benefits of LWCF grant money - more than \$300 million of State and Local Assistance grants have supported projects from 1965-2011. These grants can come in several forms - they cover planning costs that fund a State to develop the Statewide Comprehensive Outdoor Recreation Plan (SCORP), they fund the acquisition of land for outdoor recreation, the development (or redevelopment) of land for an outdoor project, or a combination of these. The chart below breaks down the State and Local Assistance grants by type for the six New England states.
 
-### Connecticut
+<img src="TODO" alt="Stacked bar chart with breakdown of New England state grants by type: acquisition, combination, development, planning, and redevelopment" />
 
-- <a href="https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land" target="_blank">Connecticut River Watershed:</a>
+Below are some examples of LWCF projects specific to the New England area.
 
-> The 36,000-acre Silvio O. Conte National Fish and Wildlife Refuge encompasses the Connecticut River’s watershed from northern New Hampshire and Vermont down to Long Island Sound in Connecticut. Nearly $10 million in LWCF grants have aided in protection of land within the refuge. Additional grants have protected even more land within the 7.2-million acre watershed.
-
-**Ridgefield, CT:** In one of the largest single Land and Water Conservation Fund grants to the State of Connecticut, the 460-acre Bennett's Pond property was acquired by the Department of Environmental Protection as an expansion of the adjacent Wooster Mountain State Park in Ridgefield. Recreation in and around the pond includes fishing, hunting, hiking, mountain biking and cross-country skiing. LWCF funding assistance: $2,197,863. (<a href="https://www.nps.gov/subjects/lwcf/upload/LWCF_CT.pdf" target="_blank">Source</a>)
-
-### Maine
-
-**Washington County, ME:** Acquisition of more than 2000 acres along a 34-mile reach of the beautiful St. Croix River was led by the Land for Maine’s Future program and several private conservation organizations. The goal was to conserve a 500-foot riparian corridor for conservation and recreation, including camping, picnicking and boat access. The project completes a decade-long effort by the State of Maine, the Province of New Brunswick, the St. Croix International Waterway Commission and private land trusts to protect one of the most pristine stretches of boundary water in eastern North America. LWCF Funding Assistance: $175,000; Total Project Cost: $1,178,100. (<a href="https://www.nps.gov/subjects/lwcf/upload/LWCF_ME.pdf" target="_blank">Source</a>)
-
-### Massachusetts
-
-**Ashburnham, MA:** Ashburnham and the Commonwealth of Massachusetts used $450,000 in LWCF funds to leverage an additional $675,000 and conserve 460 acres of forest lands along the New Hampshire border. The land provides public access for long-distance hiking, links several other conservation lands, and protects the water quality of the Millers River and preserves archaeologically sensitive sites once used by the “Harvard Shakers”. LWCF funding assistance: $450,000. (<a href="https://www.nps.gov/subjects/lwcf/upload/LWCF_MA.pdf" target="_blank">Source</a>)
-
-**Mt. Watatic, MA:** The Commonwealth of Massachusetts, through its Departments of Conservation and Recreation and Fisheries & Wildlife, joined Ashby Land Trust and the Ashburnham Conservation Trust to match the LWCF grant. The 280-acre acquisition protects scenic views from Mt. Watatic’s bald summit, wetlands and ponds and offers hiking, bird/butterfly migration viewing, hunting and skiing. The former owners of the property had proposed construction of a cell tower near the summit, which raised concerns at the local and state levels. LWCF funding assistance: $784,000. (<a href="https://www.nps.gov/subjects/lwcf/upload/LWCF_MA.pdf" target="_blank">Source</a>)
-
-### New Hampshire
-
-**Tilton, NH:** A $1.3 million waterfront park took shape in downtown Tilton at the site of an abandoned flour mill with help from the Land and Water Conservation Fund in partnership with state and local funding and a remarkable show of community support. The 2-acre site, restored for public use by an EPA funded cleanup, will feature boat ramps, fishing piers, picnic areas and a main pavilion topped by a restored bell preserved from the mill tower. LWCF funding assistance: $100,000. (<a href="https://www.nps.gov/subjects/lwcf/upload/LWCF_NH.pdf" target="_blank">Source</a>)
-
-
-### Rhode Island
-
-- <a href="https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land" target="_blank">Providence, RI:</a>
-
->Three grants totaling more than $2 million funded a series of projects to develop Roger Williams Park in downtown Providence. The park is 427s acres, and hosts a zoo, a botanical garden, and other cultural sites. LWCF funding assistance: $2.3 million
-
-- <a href="https://static1.squarespace.com/static/58a60299ff7c508c3c05f2e1/t/5908c743e3df284d84bec1c7/1493747550938/LWCF_50thAnniversaryReport_FINAL.pdf" target="_blank">Narragansett, RI:</a>
-
->Salty Brine State Beach - one of the most popular beaches in Rhode Island - received an LWCF State and Local Assistance Grant to build a new pavilion in 2007. LWCF funding assistance: $1.1 million
-
-### Vermont
-
-- <a href="https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf" target="_blank">Lamoille County, VT:</a>
-
-> Created in 1936 by a 30-acre gift from the town of Elmore, Elmore State Park has grown to become a popular recreation facility complete with a campground, trails, and a fire tower lookout that provides breathtaking views. The park’s bathhouse, constructed by the Civilian Conservation Corps 75 years ago, was showing its age and suffering from decay. With help from the NPS, Vermont has carefully restored the building so that it can once again support recreation activities in the park and positively contribute to the character of the surrounding area.
-
-- <a href="https://www.nps.gov/subjects/lwcf/upload/LWCF_VT.pdf" target="_blank">Black Falls Basin, VT:</a>
-
->In 2001, there was one last chance to secure 3,764 acres along the northern corridor of Vermont’s Long Trail. Two attempts in the 1990s to acquire the Black Falls Basin had failed — the second time when Land and Water Conservation Funds were unavailable. Drawing on more than 20 public and private funding sources, including the Vermont Department of Forests, Parks and Recreation, the Green Mountain Club completed the largest single land acquisition it had ever undertaken. The acquisition protected a wilderness experience for Long Trail hikers and important wildlife habitat. LWCF funding assistance: $407,000.
-
-
-## Information Sources
-
-- <a href="https://www.nps.gov/subjects/lwcf/index.htm" target="_blank">National Parks Service</a>
-- <a href="https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf" target="_blank">LWCF Annual Report FY 2012</a>
-- <a href="https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land" target="_blank">Appalachian Mountain Club LWCF At Risk Article</a>
-- <a href="https://www.nps.gov/subjects/lwcf/exemplary-projects.htm" target="_blank">List of Exemplary Projects from nps.gov</a>
-- <a href="https://wilderness.org/mapping-land-and-water-conservation-fund-lwcf" target="_blank">A Map of LWCF Projects</a>
-- <a href="https://waso-lwcf.ncrc.nps.gov/public/index.cfm" target="_blank">LWCF Summary Reports</a>
-- <a href="https://www.lwcfcoalition.com/tools/" target="_blank">LWCF Coalition Tools and Documents</a>
-
-## Data Sources
-
-- <a href="http://www.invw.org/2012/06/11/lwcf-grants-database-1283/" target="_blank">Investigate West LWCF Grants List 1965-2011</a>
+- **New England:** Almost \$10 million in LWCF grants have helped protect lands within the 36,000-acre Silvio O. Conte National Fish and Wildlife Refuge. The refuge exists to conserve the ecosystems along the Connecticut river watershed, which is the longest in New England, flowing through New Hampshire, Vermont, Massachusetts, and Connecticut
+- **Connecticut:** \$2.2 million in LWCF grants helped acquire the 460-acre Bennett's Pond property in 2004 to expand the nearby Wooster Mountain State Park. Recreation in and around the pond includes fishing, hunting, hiking, mountain biking and cross-country skiing.
+- **Maine:** In 2006, \$175,000 of LWCF grants supported a \$1.2 million project to purchase 2,000 acres along the St. Croix River in Washington County. The goal of the project was to conserve a 500-foot riparian corridor along a pristine stretch of boundary water in the Northeast.
+- **Maine:** $200,000 of LWCF funds contributed to a land purchase in Camden Hills State Park in 2011. The park offers a variety of multi-use outdoor recreation options, including hiking, hunting, mountain-biking, horseback riding, snow-shoeing, camping, and more.
+- **Massachusetts:** Ashburnham and the Commonwealth of Massachusetts used \$450,000 in LWCF funds to add to an investment to conserve 460 acres of forest lands along the New Hampshire border. The land provides public access for long-distance hiking, links several other conservation lands, and protects the water quality of the Millers River.
+- **Massachusetts:** $784,000 of LWCF grants supported a 280-acre acquisition by the Commonwealth of Massachusetts (and various other groups) of Mt. Watatic. The land purchase will protect scenic views from the mountain's bald summit, wetlands in the area, and offer hiking, wildlife viewing, hunting, and skiing opportunities.
+- **New Hampshire:** The State of New Hampshire used \$343,674 of LWCF grant money to help with its purchase of the Temple Mountain Ski Area in 2007. The land adds to the existing trail system and supports various outdoor recreation activities.
+- **New Hampshire:** \$100,000 of LWCF grants contributed to a waterfront park in downtown Tilton at the site of an abandoned flour mill. The 2-acre site was originally restored for public use by an EPA funded cleanup, and now has boat ramps, fishing piers, picnic areas and a main pavilion for public use.
+- **Rhode Island:** Three grants totaling more than \$2.3 million funded a series of projects to develop Roger Williams Park, which covers 427 acres and hosts a zoo, a botanical garden, and other cultural sites.
+- **Rhode Island:** In 2007, \$1.1 million of LWCF State and Local Assistance grants helped build a new pavilion at Salty Brine State Beach, one of the more popular beaches in the State.
+- **Vermont:** In 2005, \$441,500 of LWCF grants helped to cover the cost to renovate Elmore State Park's bathhouse so it can continue providing support for recreational activities in the park.
+- **Vermont:** In 2001, \$461,681 of LWCF grant money helped to secure 3,764 acres of the Black Falls Basin along the northern corridor of Vermont’s Long Trail. The acquisition protects a wilderness experience for Long Trail hikers and important wildlife habitat.
 
 
