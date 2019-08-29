@@ -40,15 +40,23 @@ Below are some examples of LWCF projects specific to the New England area - text
 
 ### Rhode Island
 
-**Providence, RI:** More than $2 million total, from three grants, funded a series of projects to develop Roger Williams Park in downtown Providence. The 427-acre park is home to seven lakes, a zoo, a botanical garden, and other cultural sites. LWCF funding assistance: $2,272,758. (<a href="https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land" target="_blank">Source</a>)
+- <a href="https://www.outdoors.org/articles/amc-outdoors/this-land-is-your-land" target="_blank">Providence, RI:</a>
 
-**Narragansett, RI:** One of the most popular beaches in Rhode Island, Salty Brine State Beach received an LWCF State and Local Assistance Grant to build its new pavilion. LWCF funding assistance: $1,094,865. (<a href="https://static1.squarespace.com/static/58a60299ff7c508c3c05f2e1/t/5908c743e3df284d84bec1c7/1493747550938/LWCF_50thAnniversaryReport_FINAL.pdf" target="_blank">Source</a>)
+>Three grants totaling more than $2 million funded a series of projects to develop Roger Williams Park in downtown Providence. The park is 427s acres, and hosts a zoo, a botanical garden, and other cultural sites. LWCF funding assistance: $2.3 million
+
+- <a href="https://static1.squarespace.com/static/58a60299ff7c508c3c05f2e1/t/5908c743e3df284d84bec1c7/1493747550938/LWCF_50thAnniversaryReport_FINAL.pdf" target="_blank">Narragansett, RI:</a>
+
+>Salty Brine State Beach - one of the most popular beaches in Rhode Island - received an LWCF State and Local Assistance Grant to build a new pavilion in 2007. LWCF funding assistance: $1.1 million
 
 ### Vermont
 
-**Lamoille County, VT:** Created in 1936 by a 30-acre gift from the town of Elmore, Elmore State Park has grown to become a popular recreation facility complete with a campground, trails, and a fire tower lookout that provides breathtaking views. The park’s bathhouse, constructed by the Civilian Conservation Corps 75 years ago, was showing its age and suffering from decay. With help from the NPS, Vermont has carefully restored the building so that it can once again support recreation activities in the park and positively contribute to the character of the surrounding area. (<a href="https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf" target="_blank">Source</a>)
+- <a href="https://www.nps.gov/subjects/lwcf/upload/LWCF-Annual-Report-2012.pdf" target="_blank">Lamoille County, VT:</a>
 
-**Black Falls Basin, VT:** In 2001, there was one last chance to secure 3,764 acres along the northern corridor of Vermont’s Long Trail. Two attempts in the 1990s to acquire the Black Falls Basin had failed — the second time when Land and Water Conservation Funds were unavailable. Drawing on more than 20 public and private funding sources, including the Vermont Department of Forests, Parks and Recreation, the Green Mountain Club completed the largest single land acquisition it had ever undertaken. The acquisition protected a wilderness experience for Long Trail hikers and important wildlife habitat. LWCF funding assistance: $407,000. (<a href="https://www.nps.gov/subjects/lwcf/upload/LWCF_VT.pdf" target="_blank"> Source</a>)
+> Created in 1936 by a 30-acre gift from the town of Elmore, Elmore State Park has grown to become a popular recreation facility complete with a campground, trails, and a fire tower lookout that provides breathtaking views. The park’s bathhouse, constructed by the Civilian Conservation Corps 75 years ago, was showing its age and suffering from decay. With help from the NPS, Vermont has carefully restored the building so that it can once again support recreation activities in the park and positively contribute to the character of the surrounding area.
+
+- <a href="https://www.nps.gov/subjects/lwcf/upload/LWCF_VT.pdf" target="_blank">Black Falls Basin, VT:</a>
+
+>In 2001, there was one last chance to secure 3,764 acres along the northern corridor of Vermont’s Long Trail. Two attempts in the 1990s to acquire the Black Falls Basin had failed — the second time when Land and Water Conservation Funds were unavailable. Drawing on more than 20 public and private funding sources, including the Vermont Department of Forests, Parks and Recreation, the Green Mountain Club completed the largest single land acquisition it had ever undertaken. The acquisition protected a wilderness experience for Long Trail hikers and important wildlife habitat. LWCF funding assistance: $407,000.
 
 
 ## Information Sources
