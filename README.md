@@ -7,7 +7,7 @@ In that spirit, this repository is for data science, analysis, and visualization
 **Projects**
 
 - [Land and Water Conservation Fund (LWCF) - MOVED TO ANOTHER REPOSITORY](https://github.com/HKuz/DataScienceForConservation_LWCF)
-- [Overview of Main and Direct Sources of Conservation Funding](./ConservationFunding/SourcesForConservationFunding.ipynb)
+- [Overview of Main and Direct Sources of Conservation Funding](./ConservationFunding/ConservationFundingSources.ipynb)
 - [Hunter Participation Growth & Decline by License Sales](./Participation/README.md)
 - [Analysis of Public Comments Regarding the EPA's Revised Definition of "Waters of the United States"](./WaterRevision/README.md)
 
