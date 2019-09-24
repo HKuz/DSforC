@@ -1,6 +1,6 @@
 # Hunter Participation (Work-In-Process)
 
-A look at hunter participation in the U.S. by state and region through historic hunting license information from 2004-2018.
+A state-by-state look at hunter participation in the U.S. using historic hunting license information from 2004-2018.
 
 Analysis available in the [project Jupyter Notebook](./HunterParticipation.ipynb).
 
