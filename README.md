@@ -5,7 +5,6 @@ This project is in the process of being migrated to the [Data Science for Conser
 **Projects**
 
 - [Land and Water Conservation Fund (LWCF) - MOVED TO ANOTHER REPOSITORY](https://github.com/HKuz/DataScienceForConservation_LWCF)
-- [Hunter Participation Growth & Decline by License Sales](./Participation/README.md)
 - [Analysis of Public Comments Regarding the EPA's Revised Definition of "Waters of the United States"](./WaterRevision/README.md)
 
 ## License
