@@ -1,6 +1,6 @@
 # Data Science for Conservation
 
-This project is in the process of being migrated to the [Data Science for Conservation Project](https://github.com/Data-Science-for-Conservation).
+This project has been migrated to the [Data Science for Conservation Project](https://github.com/Data-Science-for-Conservation).
 
 ## License
 
